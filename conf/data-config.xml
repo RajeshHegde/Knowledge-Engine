@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataConfig>
+	<dataSource type="JdbcDataSource" driver="com.mysql.jdbc.Driver"
+                     url="jdbc:mysql://127.0.0.1/knowledge_engine" 
+                        user="rajesh" password="rajesh"/>
+	<document>
+<!--        <entity name="institute" query="SELECT * FROM institute">  
+            <field column="institute_id" name="id" />  
+            <field column="institute_name" name="institute_name" />  
+			<field column="description" name="description" />
+        </entity>  
+        <entity name="department_lookup" query="SELECT * FROM department_lookup">  
+            <field column="dept_code" name="dept_code" />  
+            <field column="dept_name" name="dept_name" />  
+			<field column="dept_description" name="dept_description" />
+        </entity>  
+        <entity name="faculty" query="SELECT * FROM faculty">  
+            <field column="institute_id" name="institute_id" />  
+            <field column="faculty_name" name="faculty_name" />  
+			<field column="designation" name="designation" />
+			<field column="dept_code" name="dept_code" />
+			<field column="faculty_email" name="faculty_email" />
+			<field column="qualifications" name="qualifications" />
+			<field column="research_field" name="research_field" />
+			<field column="publications" name="publications" />
+			<field column="specialization" name="specialization" />
+        </entity>   
+		-->
+		<entity name="knowledge_engine" query="SELECT * FROM faculty as f, institute as i, department_lookup as d 
+			WHERE i.institute_id = f.institute_id AND d.dept_code = f.dept_code">
+			<field column="institute_id" name="institute_id" />  
+            <field column="institute_name" name="institute_name" />  
+			<field column="description" name="institute_description" />
+			<field column="dept_code" name="dept_code" />  
+            <field column="dept_name" name="dept_name" />  
+			<field column="dept_description" name="dept_description" />
+            <field column="faculty_name" name="faculty_name" />  
+			<field column="designation" name="designation" />
+			<field column="faculty_email" name="faculty_email" />
+			<field column="qualifications" name="qualifications" />
+			<field column="research_field" name="research_field" />
+			<field column="publications" name="publications" />
+			<field column="specialization" name="specialization" />
+			<field column="photo_href" name="photo_href" />
+			<field column="faculty_page" name="faculty_page" />
+			
+        </entity> 
+	</document>
+	
+</dataConfig>
