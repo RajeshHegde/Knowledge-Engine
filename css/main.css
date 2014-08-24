@@ -29,7 +29,7 @@ body{
 	width: 680px;
 	position: absolute;
 	min-height: 200px;
-	background-color: #fff;
+	background-color: lightyellow;
 	border: 1px solid #fda566;
 	-webkit-border-radius: 10px;
 	border-radius: 10px;
@@ -134,6 +134,7 @@ input[type=text]{
 
 #answer{
 	top: 290px;
+	background-color: lightyellow;
 }
 
 #answer:hover {

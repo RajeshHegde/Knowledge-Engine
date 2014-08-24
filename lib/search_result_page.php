@@ -25,7 +25,7 @@
 				<form method="POST" action="process.php">
 					<h1 id="heading"> Knowledge Based Search Engine  </h1>
 					<fieldset id="result_page_search_field">
-						<input name="searchbox" id="result_page_search_bar" maxlength="200" type="text" autocapitalize="off" autocomplete="off" value="<?php echo $search_query ?>">
+						<input name="searchbox" id="result_page_search_bar" maxlength="200" type="text" autocapitalize="off" autocomplete="off" value="<?php echo $search_query ?>" required>
 						<input id="submit_button" type="submit" value="Search">
 					</fieldset>
 			

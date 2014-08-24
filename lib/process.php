@@ -8,12 +8,12 @@
 	*/
 	require_once("search_result_page.php");
 	require_once("search.php");
-	//error_reporting(0);
+	error_reporting(0);
 	
 
 	$search_text = isset($_POST['searchbox']) ? $_POST['searchbox'] : "";
-	
-	// $results_limit = isset($_POST['results_limit']) ? $_POST['results_limit'] : "";
+	$results_limit = 10;
+	// $results_limit = isset($_REQUEST['results_limit']) ? $_REQUEST['results_limit'] : "";
 	// $search_text_array = str_replace(" ","%2B",$search_text_array);	
 
 	

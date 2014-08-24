@@ -27,7 +27,7 @@
 				</fieldset>
  -->
 				<fieldset id="search_field">
-					<input name="searchbox" id="search_bar" maxlength="200" type="text" autocapitalize="off" autocomplete="off" >
+					<input name="searchbox" id="search_bar" maxlength="200" type="text" autocapitalize="off" autocomplete="off"  required>
 					<input id="submit_button" type="submit" value="Search">
 				</fieldset>
 
