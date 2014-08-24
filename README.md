@@ -3,7 +3,7 @@ Knowledge-Engine
 
 A Knowledge Based Search engine specifically for searching faculty information.
 
-#Features:
+##Features:
 * Search by Faculty Name
 * Search by Designation
 * Search by Department
