@@ -18,7 +18,7 @@ A Knowledge Based Search engine specifically for searching faculty information.
 * Create a database in mysql named knowledge_engine
 * Change the database credentials in data-config.xml
 * Run and index the solr.
-* Access knowledge Engine portal at http://localhost/{path/from/publuc/directory/to/knowledge/enige/folder}
+* Access knowledge Engine portal at http://localhost/{path/from/publuc/directory/to/knowledge/engine/folder}
 
 ##Extractio Unit
 * It is a eclipse project. Import this folder as eclipse project.
