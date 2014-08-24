@@ -1,0 +1,242 @@
+DEBUG:root:Reading Guwahati cs faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati cs faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Awekar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/awekar.jpeg', ' awekar @ iitg.ernet.in', '', '[" Data Mining"]', '[]', 'http://www.iitg.ernet.in/awekar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gautam Barua', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/gb.jpeg', ' gb @ iitg.ernet.in', '', '[" Operating Systems", " Distributed Systems", " Networks", " Database Management Systems"]', '[]', 'http://www.iitg.ernet.in/gb/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Purandar Bhaduri', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pbhaduri.jpeg', ' pbhaduri @ iitg.ernet.in', '', '[" Formal Modelling", " Synthesis and Verification of Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/pbhaduri/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Samit Bhattacharya', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/samit.jpeg', ' samit @ iitg.ernet.in', '', '[" Human Computer Interaction", " User Modeling", " Model Based Evaluation of Interactive Systems", " Rehabilitation Engineering"]', '[]', 'http://www.iitg.ernet.in/samit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Santosh Biswas', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/santosh_biswas.jpeg', ' santosh_biswas @ iitg.ernet.in', '', '[" Networking", " Fault Tolerance", " VLSI Testing", " Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/santosh_biswas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sandipan Dandapat', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2013/02/sdandapat.jpeg', ' sdandapat @ iitg.ernet.in', '', '[" Machine Translation", " Natural Language Processing", " Machine Learning"]', '[]', 'http://www.iitg.ernet.in/sdandapat/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pradip Kr. Das', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pkdas.jpeg', ' pkdas @ iitg.ernet.in', '', '[" Digital Signal Processing", " Speech Processing", " Man-Machine Intelligence Systems"]', '[]', 'http://www.iitg.ernet.in/pkdas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Jatindra Kr. Deka', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/jatin.jpeg', ' jatin @ iitg.ernet.in', '', '[" Formal Verification", " VLSI Design"]', '[]', 'http://www.iitg.ernet.in/jatin/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Diganta Goswami', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/dgoswami.jpeg', ' dgoswami @ iitg.ernet.in', '', '[" Distributed Systems", " Software Engineering"]', '[]', 'http://www.iitg.ernet.in/dgoswami/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Inkulu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/rinkulu.jpeg', ' rinkulu @ iitg.ernet.in', '', '[" Algorithms"]', '[]', 'http://www.iitg.ernet.in/rinkulu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Benny George K', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ben.jpeg', ' ben @ iitg.ernet.in', '', '[" Word combinatorics", " algorithms and combinatorics"]', '[]', 'http://www.iitg.ernet.in/ben/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hemangee Kalpesh Kapoor', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/hemangee.jpeg', ' hemangee @ iitg.ernet.in', '', '[" Multiprocessor Computer Architecture", " Formal Methods", " Network-on-Chip design", " Asynchronous systems"]', '[]', 'http://www.iitg.ernet.in/hemangee/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sushanta Karmakar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sushantak.jpeg', ' sushantak @ iitg.ernet.in', '', '[" Distributed algorithms", " fault-tolerance", " distributed algorithms for ad hoc and sensor networks"]', '[]', 'http://www.iitg.ernet.in/sushantak/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Deepanjan Kesh', '', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/03/deepkesh.jpeg', '', '', '[]', '[]', 'http://www.iitg.ernet.in/deepkesh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pinaki Mitra', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pinaki.jpeg', ' pinaki @ iitg.ernet.in', '', '[" Computational Geometry", " Parallel Algorithms", " Randomized Algorithms", " Optimization"]', '[]', 'http://www.iitg.ernet.in/pinaki/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Shivashankar B. Nair', 'Professor and Head', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sbnair.jpeg', ' sbnair @ iitg.ernet.in', '', '[" Artificial Intelligence", " Intelligent and Bio-Inspired Robotics", " Emotional Robots", " Mobile Agent based systems", " Artificial Immune Systems", " Cyber-physical Systems", " Natural Language Processing", " Genetic Algorithms", " Fuzzy Systems &amp; Neural Networks"]', '[]', 'http://www.iitg.ernet.in/sbnair/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sukumar Nandi', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sukumar.jpeg', ' sukumar @ iitg.ernet.in', '', '[" Networks (Specially: QoS", " Wireless Networks)", " Computer and Network Security", " VLSI"]', '[]', 'http://www.iitg.ernet.in/sukumar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'S. V. Rao', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/svrao.jpeg', ' svrao @ iitg.ernet.in', '', '[" Computational Geometry and Its Applications"]', '[]', 'http://www.iitg.ernet.in/svrao/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Aryabartta Sahu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/asahu.jpeg', ' asahu @ iitg.ernet.in', '', '[" Advance Computer Architecture", " Multicore Parallel Programming and Compiling", " Embedded System", " VLSI and FPGA Design"]', '[]', 'http://www.iitg.ernet.in/asahu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'G. Sajith', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sajith.jpeg', ' sajith @ iitg.ernet.in', '', '[" Parallel and Distributed Algorithms", " External Memory Algorithms", " Complexity Theory", " Mobile Computing"]', '[]', 'http://www.iitg.ernet.in/sajith/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'V. Vijaya Saradhi', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/saradhi.jpeg', ' saradhi @ iitg.ernet.in', '', '[" Machine Learning", " Kernel Methods", " Data Mining and their applications"]', '[]', 'http://www.iitg.ernet.in/saradhi/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arnab Sarkar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/11/arnabsarkar.jpeg', ' arnabsarkar @ iitg.ernet.in', '', '[" Real-Time and Embedded Systems", " Computer"]', '[]', 'http://www.iitg.ernet.in/arnabsarkar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Saswata Shannigrahi', 'Assistant Professor and Ramanujan fellow', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/11/saswata.sh.jpeg', ' saswata.sh @ iitg.ernet.in', '', '[" Data structures and Algorithms", " Combinatorial Geometry", " Analysis of Social Networks."]', '[]', 'http://www.iitg.ernet.in/saswata.sh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sanasam Ranbir Singh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ranbir.jpeg', ' ranbir @ iitg.ernet.in', '', '[" Web Search Engine", " Machine Learning", " Information Retrieval", " Data Mining especially in the area of Web Search Engine"]', '[]', 'http://www.iitg.ernet.in/ranbir/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arijit Sur', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/arijit.jpeg', ' arijit @ iitg.ernet.in', '', '[" Information Hiding: Steganography and Steganalysis. Multimedia Security: Image and Video Watermarking. Network Security: Intrusion Detection System and Network Steganography"]', '[]', 'http://www.iitg.ernet.in/arijit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'T. Venkatesh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/t.venkat.jpeg', ' t.venkat @ iitg.ernet.in', '', '[" Computer Networks"]', '[]', 'http://www.iitg.ernet.in/t.venkat/', '[]')
+                        
+DEBUG:root:Reading Guwahati cs faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Awekar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/awekar.jpeg', ' awekar @ iitg.ernet.in', '', '[" Data Mining"]', '[]', 'http://www.iitg.ernet.in/awekar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gautam Barua', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/gb.jpeg', ' gb @ iitg.ernet.in', '', '[" Operating Systems", " Distributed Systems", " Networks", " Database Management Systems"]', '[]', 'http://www.iitg.ernet.in/gb/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Purandar Bhaduri', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pbhaduri.jpeg', ' pbhaduri @ iitg.ernet.in', '', '[" Formal Modelling", " Synthesis and Verification of Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/pbhaduri/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Samit Bhattacharya', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/samit.jpeg', ' samit @ iitg.ernet.in', '', '[" Human Computer Interaction", " User Modeling", " Model Based Evaluation of Interactive Systems", " Rehabilitation Engineering"]', '[]', 'http://www.iitg.ernet.in/samit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Santosh Biswas', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/santosh_biswas.jpeg', ' santosh_biswas @ iitg.ernet.in', '', '[" Networking", " Fault Tolerance", " VLSI Testing", " Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/santosh_biswas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sandipan Dandapat', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2013/02/sdandapat.jpeg', ' sdandapat @ iitg.ernet.in', '', '[" Machine Translation", " Natural Language Processing", " Machine Learning"]', '[]', 'http://www.iitg.ernet.in/sdandapat/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pradip Kr. Das', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pkdas.jpeg', ' pkdas @ iitg.ernet.in', '', '[" Digital Signal Processing", " Speech Processing", " Man-Machine Intelligence Systems"]', '[]', 'http://www.iitg.ernet.in/pkdas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Jatindra Kr. Deka', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/jatin.jpeg', ' jatin @ iitg.ernet.in', '', '[" Formal Verification", " VLSI Design"]', '[]', 'http://www.iitg.ernet.in/jatin/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Diganta Goswami', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/dgoswami.jpeg', ' dgoswami @ iitg.ernet.in', '', '[" Distributed Systems", " Software Engineering"]', '[]', 'http://www.iitg.ernet.in/dgoswami/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Inkulu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/rinkulu.jpeg', ' rinkulu @ iitg.ernet.in', '', '[" Algorithms"]', '[]', 'http://www.iitg.ernet.in/rinkulu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Benny George K', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ben.jpeg', ' ben @ iitg.ernet.in', '', '[" Word combinatorics", " algorithms and combinatorics"]', '[]', 'http://www.iitg.ernet.in/ben/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hemangee Kalpesh Kapoor', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/hemangee.jpeg', ' hemangee @ iitg.ernet.in', '', '[" Multiprocessor Computer Architecture", " Formal Methods", " Network-on-Chip design", " Asynchronous systems"]', '[]', 'http://www.iitg.ernet.in/hemangee/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sushanta Karmakar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sushantak.jpeg', ' sushantak @ iitg.ernet.in', '', '[" Distributed algorithms", " fault-tolerance", " distributed algorithms for ad hoc and sensor networks"]', '[]', 'http://www.iitg.ernet.in/sushantak/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Deepanjan Kesh', '', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/03/deepkesh.jpeg', '', '', '[]', '[]', 'http://www.iitg.ernet.in/deepkesh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pinaki Mitra', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pinaki.jpeg', ' pinaki @ iitg.ernet.in', '', '[" Computational Geometry", " Parallel Algorithms", " Randomized Algorithms", " Optimization"]', '[]', 'http://www.iitg.ernet.in/pinaki/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Shivashankar B. Nair', 'Professor and Head', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sbnair.jpeg', ' sbnair @ iitg.ernet.in', '', '[" Artificial Intelligence", " Intelligent and Bio-Inspired Robotics", " Emotional Robots", " Mobile Agent based systems", " Artificial Immune Systems", " Cyber-physical Systems", " Natural Language Processing", " Genetic Algorithms", " Fuzzy Systems &amp; Neural Networks"]', '[]', 'http://www.iitg.ernet.in/sbnair/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sukumar Nandi', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sukumar.jpeg', ' sukumar @ iitg.ernet.in', '', '[" Networks (Specially: QoS", " Wireless Networks)", " Computer and Network Security", " VLSI"]', '[]', 'http://www.iitg.ernet.in/sukumar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'S. V. Rao', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/svrao.jpeg', ' svrao @ iitg.ernet.in', '', '[" Computational Geometry and Its Applications"]', '[]', 'http://www.iitg.ernet.in/svrao/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Aryabartta Sahu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/asahu.jpeg', ' asahu @ iitg.ernet.in', '', '[" Advance Computer Architecture", " Multicore Parallel Programming and Compiling", " Embedded System", " VLSI and FPGA Design"]', '[]', 'http://www.iitg.ernet.in/asahu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'G. Sajith', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sajith.jpeg', ' sajith @ iitg.ernet.in', '', '[" Parallel and Distributed Algorithms", " External Memory Algorithms", " Complexity Theory", " Mobile Computing"]', '[]', 'http://www.iitg.ernet.in/sajith/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'V. Vijaya Saradhi', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/saradhi.jpeg', ' saradhi @ iitg.ernet.in', '', '[" Machine Learning", " Kernel Methods", " Data Mining and their applications"]', '[]', 'http://www.iitg.ernet.in/saradhi/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arnab Sarkar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/11/arnabsarkar.jpeg', ' arnabsarkar @ iitg.ernet.in', '', '[" Real-Time and Embedded Systems", " Computer"]', '[]', 'http://www.iitg.ernet.in/arnabsarkar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Saswata Shannigrahi', 'Assistant Professor and Ramanujan fellow', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/11/saswata.sh.jpeg', ' saswata.sh @ iitg.ernet.in', '', '[" Data structures and Algorithms", " Combinatorial Geometry", " Analysis of Social Networks."]', '[]', 'http://www.iitg.ernet.in/saswata.sh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sanasam Ranbir Singh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ranbir.jpeg', ' ranbir @ iitg.ernet.in', '', '[" Web Search Engine", " Machine Learning", " Information Retrieval", " Data Mining especially in the area of Web Search Engine"]', '[]', 'http://www.iitg.ernet.in/ranbir/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arijit Sur', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/arijit.jpeg', ' arijit @ iitg.ernet.in', '', '[" Information Hiding: Steganography and Steganalysis. Multimedia Security: Image and Video Watermarking. Network Security: Intrusion Detection System and Network Steganography"]', '[]', 'http://www.iitg.ernet.in/arijit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'T. Venkatesh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/t.venkat.jpeg', ' t.venkat @ iitg.ernet.in', '', '[" Computer Networks"]', '[]', 'http://www.iitg.ernet.in/t.venkat/', '[]')
+                        
+DEBUG:root:Reading Guwahati cs faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Awekar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/awekar.jpeg', ' awekar @ iitg.ernet.in', '', '[" Data Mining"]', '[]', 'http://www.iitg.ernet.in/awekar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gautam Barua', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/gb.jpeg', ' gb @ iitg.ernet.in', '', '[" Operating Systems", " Distributed Systems", " Networks", " Database Management Systems"]', '[]', 'http://www.iitg.ernet.in/gb/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Purandar Bhaduri', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pbhaduri.jpeg', ' pbhaduri @ iitg.ernet.in', '', '[" Formal Modelling", " Synthesis and Verification of Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/pbhaduri/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Samit Bhattacharya', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/samit.jpeg', ' samit @ iitg.ernet.in', '', '[" Human Computer Interaction", " User Modeling", " Model Based Evaluation of Interactive Systems", " Rehabilitation Engineering"]', '[]', 'http://www.iitg.ernet.in/samit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Santosh Biswas', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/santosh_biswas.jpeg', ' santosh_biswas @ iitg.ernet.in', '', '[" Networking", " Fault Tolerance", " VLSI Testing", " Embedded Systems"]', '[]', 'http://www.iitg.ernet.in/santosh_biswas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sandipan Dandapat', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2013/02/sdandapat.jpeg', ' sdandapat @ iitg.ernet.in', '', '[" Machine Translation", " Natural Language Processing", " Machine Learning"]', '[]', 'http://www.iitg.ernet.in/sdandapat/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pradip Kr. Das', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pkdas.jpeg', ' pkdas @ iitg.ernet.in', '', '[" Digital Signal Processing", " Speech Processing", " Man-Machine Intelligence Systems"]', '[]', 'http://www.iitg.ernet.in/pkdas/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Jatindra Kr. Deka', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/jatin.jpeg', ' jatin @ iitg.ernet.in', '', '[" Formal Verification", " VLSI Design"]', '[]', 'http://www.iitg.ernet.in/jatin/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Diganta Goswami', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/dgoswami.jpeg', ' dgoswami @ iitg.ernet.in', '', '[" Distributed Systems", " Software Engineering"]', '[]', 'http://www.iitg.ernet.in/dgoswami/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Inkulu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/rinkulu.jpeg', ' rinkulu @ iitg.ernet.in', '', '[" Algorithms"]', '[]', 'http://www.iitg.ernet.in/rinkulu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Benny George K', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ben.jpeg', ' ben @ iitg.ernet.in', '', '[" Word combinatorics", " algorithms and combinatorics"]', '[]', 'http://www.iitg.ernet.in/ben/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hemangee Kalpesh Kapoor', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/hemangee.jpeg', ' hemangee @ iitg.ernet.in', '', '[" Multiprocessor Computer Architecture", " Formal Methods", " Network-on-Chip design", " Asynchronous systems"]', '[]', 'http://www.iitg.ernet.in/hemangee/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sushanta Karmakar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sushantak.jpeg', ' sushantak @ iitg.ernet.in', '', '[" Distributed algorithms", " fault-tolerance", " distributed algorithms for ad hoc and sensor networks"]', '[]', 'http://www.iitg.ernet.in/sushantak/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Deepanjan Kesh', '', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/03/deepkesh.jpeg', '', '', '[]', '[]', 'http://www.iitg.ernet.in/deepkesh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pinaki Mitra', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/pinaki.jpeg', ' pinaki @ iitg.ernet.in', '', '[" Computational Geometry", " Parallel Algorithms", " Randomized Algorithms", " Optimization"]', '[]', 'http://www.iitg.ernet.in/pinaki/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Shivashankar B. Nair', 'Professor and Head', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sbnair.jpeg', ' sbnair @ iitg.ernet.in', '', '[" Artificial Intelligence", " Intelligent and Bio-Inspired Robotics", " Emotional Robots", " Mobile Agent based systems", " Artificial Immune Systems", " Cyber-physical Systems", " Natural Language Processing", " Genetic Algorithms", " Fuzzy Systems &amp; Neural Networks"]', '[]', 'http://www.iitg.ernet.in/sbnair/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sukumar Nandi', 'Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sukumar.jpeg', ' sukumar @ iitg.ernet.in', '', '[" Networks (Specially: QoS", " Wireless Networks)", " Computer and Network Security", " VLSI"]', '[]', 'http://www.iitg.ernet.in/sukumar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'S. V. Rao', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/svrao.jpeg', ' svrao @ iitg.ernet.in', '', '[" Computational Geometry and Its Applications"]', '[]', 'http://www.iitg.ernet.in/svrao/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Aryabartta Sahu', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/asahu.jpeg', ' asahu @ iitg.ernet.in', '', '[" Advance Computer Architecture", " Multicore Parallel Programming and Compiling", " Embedded System", " VLSI and FPGA Design"]', '[]', 'http://www.iitg.ernet.in/asahu/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'G. Sajith', 'Associate Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/sajith.jpeg', ' sajith @ iitg.ernet.in', '', '[" Parallel and Distributed Algorithms", " External Memory Algorithms", " Complexity Theory", " Mobile Computing"]', '[]', 'http://www.iitg.ernet.in/sajith/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'V. Vijaya Saradhi', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/saradhi.jpeg', ' saradhi @ iitg.ernet.in', '', '[" Machine Learning", " Kernel Methods", " Data Mining and their applications"]', '[]', 'http://www.iitg.ernet.in/saradhi/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arnab Sarkar', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2012/11/arnabsarkar.jpeg', ' arnabsarkar @ iitg.ernet.in', '', '[" Real-Time and Embedded Systems", " Computer"]', '[]', 'http://www.iitg.ernet.in/arnabsarkar/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Saswata Shannigrahi', 'Assistant Professor and Ramanujan fellow', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/11/saswata.sh.jpeg', ' saswata.sh @ iitg.ernet.in', '', '[" Data structures and Algorithms", " Combinatorial Geometry", " Analysis of Social Networks."]', '[]', 'http://www.iitg.ernet.in/saswata.sh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sanasam Ranbir Singh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/ranbir.jpeg', ' ranbir @ iitg.ernet.in', '', '[" Web Search Engine", " Machine Learning", " Information Retrieval", " Data Mining especially in the area of Web Search Engine"]', '[]', 'http://www.iitg.ernet.in/ranbir/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arijit Sur', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/arijit.jpeg', ' arijit @ iitg.ernet.in', '', '[" Information Hiding: Steganography and Steganalysis. Multimedia Security: Image and Video Watermarking. Network Security: Intrusion Detection System and Network Steganography"]', '[]', 'http://www.iitg.ernet.in/arijit/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'T. Venkatesh', 'Assistant Professor', 'CS', 'http://www.iitg.ernet.in/cse/wp-content/uploads/2011/02/t.venkat.jpeg', ' t.venkat @ iitg.ernet.in', '', '[" Computer Networks"]', '[]', 'http://www.iitg.ernet.in/t.venkat/', '[]')
+                        

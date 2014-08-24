@@ -1,0 +1,178 @@
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Kumar', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/amitkumar.jpg', ' amitkumar@iitg.ernet.in', '', '["Gas Transport in Nanoporous Materials", " Molecular simulation", " Statistical Mechanics"]', '[]', 'http://www.iitg.ac.in/chemeng/ak.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anil Verma', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AV.jpg', ' anil.verma@iitg.ernet.in', '', '["Fuel Cell", " Hydrogen Production and Storage", " Graphene", " Carbon Dioxide Capture and Conversion to Fuel"]', '[]', 'http://www.iitg.ac.in/chemeng/AV.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Animes Kr. Golder', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AG.jpg', ' animes@iitg.ac.in', '', '["Electroremediation of water/ wastewater", " Physiochemical water / wastewater treatment techniques", " Bioremediation", " Electrochemical corrosion."]', '[]', 'http://www.iitg.ac.in/chemeng/AG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anugrah Singh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AS.jpg', ' anugrah@iitg.ac.in', '', '["Computational and Experimental Fluid Dynamics", "Microfluidics/Nanofluidics", " Material Processing", " Flow through Porous Media."]', '[]', 'http://www.iitg.ac.in/chemeng/AS.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ashok Kumar Das Mahapatra', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/akdm.gif', ' akdm@iitg.ac.in', '', '["Complex fluids", " Phase transition in polymers (Nucleation", ""]', '[]', 'http://www.iitg.ac.in/chemeng/akdm.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bishnupada Mandal', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/bpm.jpg', ' bpmandal@iitg.ac.in', '', '["Separations with chemical reaction", " Molecular based membrane separation", " Modeling and simulation of separation processes", " Environmental pollution control."]', '[]', 'http://www.iitg.ac.in/chemeng/BM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Chandan Das', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/cd.jpg', ' cdas@iitg.ac.in', '', '["Wastewater Treatment", " Bioremediation", " Membrane based Separation Process."]', '[]', 'http://www.iitg.ac.in/chemeng/CD.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Dipankar Bandyopadhyay', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/db.jpg', ' dipban@iitg.ernet.in', '', '["Colloid and Interfacial Phenomena", " Computational Fluid Dynamics", " Micro and Nano Fluidics", " Complex Flow and Fluids", " Clean Energy - Fuel and Solar Cells."]', '[]', 'http://www.iitg.ac.in/chemeng/db.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Kaustubha Mohanty', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/km.jpg', ' kmohanty@iitg.ernet.in', '', '["Bioseparation", " Biofuels", " Biological wastewater treatment", " Membrane technology", " Ionic liquids."]', '[]', 'http://www.iitg.ac.in/chemeng/KM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mahuya De', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/md.jpg', ' mahuya@iitg.ernet.in', '', '["Catalysis and reaction engineering", " adsorption", " hydrocarbon processing."]', '[]', 'http://www.iitg.ac.in/chemeng/MD.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mihir K. Purkait', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/mkp.jpg', 'Phone : +91 361 2582262', '', '[]', '[]', 'http://www.iitg.ac.in/chemeng/MKP.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Nanda Kishore', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/nk.jpg', ' nkishore@iitg.ernet.in', '', '["Computational Fluid Flow and Heat/Mass Transfer", " Non-Newtonian Fluids", " Nanofluids", " Microfluidics"]', '[]', 'http://www.iitg.ac.in/chemeng/nk.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pallab Ghosh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pg.jpg', ' pallabg@iitg.ernet.in', '', '["Interfacial phenomena", " Interfacial reactions", " Membrane separation", " Randomized algorithms."]', '[]', 'http://www.iitg.ac.in/chemeng/PG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pankaj Tiwari', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pt.jpg', ' pankaj.tiwari@iitg.ernet.in', '', '["Conventional and unconventional energies", " Reservoir Engineering", " Complex organic solids", " Biomass conversion", " Pyrolysis process", " Kinetic analysis."]', '[]', 'http://www.iitg.ac.in/chemeng/pt.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prabirkumar Saha', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/ps.jpg', ' p.saha@iitg.ac.in', '', '["Process Modelling", " Optimization and control", " Membrane Based separation Process."]', '[]', 'http://www.iitg.ac.in/chemeng/PKS.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prabu Vairakannu', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vp.jpg', ' v.prabu@iitg.ernet.in', '', '["Clean Coal Technology", " Combustion and Gasification", " Reaction Kinetics."]', '[]', 'http://www.iitg.ac.in/chemeng/vp.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prakash Kotecha', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pk.jpg', ' pkotecha@iitg.ernet.in', '', '["Key Research Areas: Optimization", " Process Control", " Artificial Intelligence", " Planning and Scheduling."]', '[]', 'http://www.iitg.ac.in/chemeng/pk.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Prasanna Venkatesh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/rp.jpg', ' rprasanna@iitg.ernet.in', '', '["Electrochemistry", " Chemical Mechanical Polishing (CMP)", " Post CMP cleaning", " Refinery Processes."]', '[]', 'http://www.iitg.ac.in/chemeng/rp.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'G. Pugazhenthi', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/gp.jpg', ' pugal@iitg.ernet.in', '', '["Membrane Separation", " Polymer Nanocomposites", " Nanomaterials", " Catalysis &amp; Refinery Processes."]', '[]', 'http://www.iitg.ac.in/chemeng/GP.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', 'http://www.iitg.ac.in/chemeng/images/rku.jpg', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ramgopal V. S. Uppaluri', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/rgu.jpg', ' ramgopalu@iitg.ernet.in', '', '["Major:Electroless Plating", " Evolutionary Engineering Optimization", " Low Cost Ceramic Membranes", " Microfiltration"]', '[]', 'http://www.iitg.ac.in/chemeng/RGU.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sasidhar Gumma', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/SG.jpg', ' s.gumma@iitg.ernet.in', '', '["Phase Equilibria and Thermodynamics", " Adsorption", " Molecular simulation", " Gas storage."]', '[]', 'http://www.iitg.ac.in/chemeng/SG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Senthilmurugan S', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/ss.jpg', ' senthilmurugan@iitg.ernet.in', '', '["Modeling and Optimization of Novel Processes", " Process Design and Operation of Membrane Separation Processes", " Waste and waste water treatment (WWWT) for Process Industries", " Novel Desalination Technologies", " Smart Water Grid", " Waste to Energy"]', '[]', 'http://www.iitg.ac.in/chemeng/ss.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Subrata K Majumder', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/skm.jpg', ' skmaju@iitg.ernet.in', '', '["Multiphase flow and reactor development", " Hydrodynamics in multiphase flow", " Mineral processing", " Process intensifications", " Micro-nano bubble science and technology and its applications."]', '[]', 'http://www.iitg.ac.in/chemeng/SKM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Tamal Banerjee', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/tb.jpg', ' tamalb@iitg.ernet.in', '', '["Phase equilibria of ionic liquids", " Molecular simulations", " Global optimization", " Statistical thermodynamics."]', '[]', 'http://www.iitg.ac.in/chemeng/TB.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Tapas K Mandal', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/tm.gif', ' tapasche@iitg.ernet.in', '', '["Multiphase flow &amp; Measurement in multiphase flow", " Bio-diesel."]', '[]', 'http://www.iitg.ac.in/chemeng/tm.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', 'http://www.iitg.ac.in/chemeng/images/vvg.gif', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vijay S. Moholkar', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vsm.jpg', ' vmoholkar@iitg.ernet.in', '', '["Bubble dynamics", " CFD", " Sono-process engineering", " Bio-mass gasification."]', '[]', 'http://www.iitg.ac.in/chemeng/VSM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vimal Katiyar&nbsp;', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vk.jpg', ' vkatiyar@iitg.ernet.in', '', '["Synthetic and Natural Polymers", " Polymer Processing", " Biothermoset", " Nanobiocomposite", " Organic Solar Cells."]', '[]', 'http://www.iitg.ac.in/chemeng/vk.html', '[]')
+                        
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Kumar', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/amitkumar.jpg', 'amitkumar@iitg.ernet.in', '', '["Gas Transport in Nanoporous Materials", " Molecular simulation", " Statistical Mechanics"]', '[]', 'http://www.iitg.ac.in/chemeng/ak.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anil Verma', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AV.jpg', 'anil.verma@iitg.ernet.in', '', '["Fuel Cell", " Hydrogen Production and Storage", " Graphene", " Carbon Dioxide Capture and Conversion to Fuel"]', '[]', 'http://www.iitg.ac.in/chemeng/AV.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Animes Kr. Golder', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AG.jpg', 'animes@iitg.ac.in', '', '["Electroremediation of water/ wastewater", " Physiochemical water / wastewater treatment techniques", " Bioremediation", " Electrochemical corrosion."]', '[]', 'http://www.iitg.ac.in/chemeng/AG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anugrah Singh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/AS.jpg', 'anugrah@iitg.ac.in', '', '["Computational and Experimental Fluid Dynamics", "Microfluidics/Nanofluidics", " Material Processing", " Flow through Porous Media."]', '[]', 'http://www.iitg.ac.in/chemeng/AS.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ashok Kumar Das Mahapatra', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/akdm.gif', 'akdm@iitg.ac.in', '', '["Complex fluids", " Phase transition in polymers (Nucleation", ""]', '[]', 'http://www.iitg.ac.in/chemeng/akdm.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bishnupada Mandal', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/bpm.jpg', 'bpmandal@iitg.ac.in', '', '["Separations with chemical reaction", " Molecular based membrane separation", " Modeling and simulation of separation processes", " Environmental pollution control."]', '[]', 'http://www.iitg.ac.in/chemeng/BM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Chandan Das', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/cd.jpg', 'cdas@iitg.ac.in', '', '["Wastewater Treatment", " Bioremediation", " Membrane based Separation Process."]', '[]', 'http://www.iitg.ac.in/chemeng/CD.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Dipankar Bandyopadhyay', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/db.jpg', 'dipban@iitg.ernet.in', '', '["Colloid and Interfacial Phenomena", " Computational Fluid Dynamics", " Micro and Nano Fluidics", " Complex Flow and Fluids", " Clean Energy - Fuel and Solar Cells."]', '[]', 'http://www.iitg.ac.in/chemeng/db.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Kaustubha Mohanty', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/km.jpg', 'kmohanty@iitg.ernet.in', '', '["Bioseparation", " Biofuels", " Biological wastewater treatment", " Membrane technology", " Ionic liquids."]', '[]', 'http://www.iitg.ac.in/chemeng/KM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mahuya De', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/md.jpg', 'mahuya@iitg.ernet.in', '', '["Catalysis and reaction engineering", " adsorption", " hydrocarbon processing."]', '[]', 'http://www.iitg.ac.in/chemeng/MD.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mihir K. Purkait', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/mkp.jpg', 'Phone : +91 361 2582262', '', '[]', '[]', 'http://www.iitg.ac.in/chemeng/MKP.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Nanda Kishore', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/nk.jpg', 'nkishore@iitg.ernet.in', '', '["Computational Fluid Flow and Heat/Mass Transfer", " Non-Newtonian Fluids", " Nanofluids", " Microfluidics"]', '[]', 'http://www.iitg.ac.in/chemeng/nk.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pallab Ghosh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pg.jpg', 'pallabg@iitg.ernet.in', '', '["Interfacial phenomena", " Interfacial reactions", " Membrane separation", " Randomized algorithms."]', '[]', 'http://www.iitg.ac.in/chemeng/PG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pankaj Tiwari', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pt.jpg', 'pankaj.tiwari@iitg.ernet.in', '', '["Conventional and unconventional energies", " Reservoir Engineering", " Complex organic solids", " Biomass conversion", " Pyrolysis process", " Kinetic analysis."]', '[]', 'http://www.iitg.ac.in/chemeng/pt.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prabirkumar Saha', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/ps.jpg', 'p.saha@iitg.ac.in', '', '["Process Modelling", " Optimization and control", " Membrane Based separation Process."]', '[]', 'http://www.iitg.ac.in/chemeng/PKS.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prabu Vairakannu', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vp.jpg', 'v.prabu@iitg.ernet.in', '', '["Clean Coal Technology", " Combustion and Gasification", " Reaction Kinetics."]', '[]', 'http://www.iitg.ac.in/chemeng/vp.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Prakash Kotecha', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/pk.jpg', 'pkotecha@iitg.ernet.in', '', '["Key Research Areas: Optimization", " Process Control", " Artificial Intelligence", " Planning and Scheduling."]', '[]', 'http://www.iitg.ac.in/chemeng/pk.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Prasanna Venkatesh', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/rp.jpg', 'rprasanna@iitg.ernet.in', '', '["Electrochemistry", " Chemical Mechanical Polishing (CMP)", " Post CMP cleaning", " Refinery Processes."]', '[]', 'http://www.iitg.ac.in/chemeng/rp.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'G. Pugazhenthi', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/gp.jpg', 'pugal@iitg.ernet.in', '', '["Membrane Separation", " Polymer Nanocomposites", " Nanomaterials", " Catalysis &amp; Refinery Processes."]', '[]', 'http://www.iitg.ac.in/chemeng/GP.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', 'http://www.iitg.ac.in/chemeng/images/rku.jpg', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ramgopal V. S. Uppaluri', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/rgu.jpg', 'ramgopalu@iitg.ernet.in', '', '["Major:Electroless Plating", " Evolutionary Engineering Optimization", " Low Cost Ceramic Membranes", " Microfiltration"]', '[]', 'http://www.iitg.ac.in/chemeng/RGU.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sasidhar Gumma', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/SG.jpg', 's.gumma@iitg.ernet.in', '', '["Phase Equilibria and Thermodynamics", " Adsorption", " Molecular simulation", " Gas storage."]', '[]', 'http://www.iitg.ac.in/chemeng/SG.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Senthilmurugan S', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/ss.jpg', 'senthilmurugan@iitg.ernet.in', '', '["Modeling and Optimization of Novel Processes", " Process Design and Operation of Membrane Separation Processes", " Waste and waste water treatment (WWWT) for Process Industries", " Novel Desalination Technologies", " Smart Water Grid", " Waste to Energy"]', '[]', 'http://www.iitg.ac.in/chemeng/ss.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Subrata K Majumder', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/skm.jpg', 'skmaju@iitg.ernet.in', '', '["Multiphase flow and reactor development", " Hydrodynamics in multiphase flow", " Mineral processing", " Process intensifications", " Micro-nano bubble science and technology and its applications."]', '[]', 'http://www.iitg.ac.in/chemeng/SKM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Tamal Banerjee', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/tb.jpg', 'tamalb@iitg.ernet.in', '', '["Phase equilibria of ionic liquids", " Molecular simulations", " Global optimization", " Statistical thermodynamics."]', '[]', 'http://www.iitg.ac.in/chemeng/TB.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Tapas K Mandal', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/tm.gif', 'tapasche@iitg.ernet.in', '', '["Multiphase flow &amp; Measurement in multiphase flow", " Bio-diesel."]', '[]', 'http://www.iitg.ac.in/chemeng/tm.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', 'http://www.iitg.ac.in/chemeng/images/vvg.gif', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vijay S. Moholkar', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vsm.jpg', 'vmoholkar@iitg.ernet.in', '', '["Bubble dynamics", " CFD", " Sono-process engineering", " Bio-mass gasification."]', '[]', 'http://www.iitg.ac.in/chemeng/VSM.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vimal Katiyar&nbsp;', '', 'CH', 'http://www.iitg.ac.in/chemeng/images/vk.jpg', 'vkatiyar@iitg.ernet.in', '', '["Synthetic and Natural Polymers", " Polymer Processing", " Biothermoset", " Nanobiocomposite", " Organic Solar Cells."]', '[]', 'http://www.iitg.ac.in/chemeng/vk.html', '[]')
+                        

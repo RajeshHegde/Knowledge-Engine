@@ -1,0 +1,363 @@
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bharat Adsul', '', 'CS', '', 'adsul@cs.iitb.ac.in', '', '[" Formal methods in Concurrency", " Logics and Games", " Geometric Complexity Theory"]', '[]', 'http://www.cse.iitb.ac.in/~adsul', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Varsha Apte', '', 'CS', '', 'varsha@cs.iitb.ac.in', '', '[" Performance Evaluation of Computer Systems and Networks"]', '[]', 'http://www.cse.iitb.ac.in/~varsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kavi Arya', '', 'CS', '', 'kavi@cs.iitb.ac.in', '', '[" Functional Programming Applications (Domain Specific Languages)", " Embedded Systems/ Parallel Programming Languages", " Distance Learning"]', '[]', 'http://www.cse.iitb.ac.in/~kavi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Suyash P. Awate', '', 'CS', '', 'suyash@cs.iitb.ac.in', '', '[" Image Processing", " Medical Image Computing", " Computer Vision", " Statistical Inference", " Machine Learning"]', '[]', 'http://www.cse.iitb.ac.in/~suyash', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Umesh Bellur', '', 'CS', '', 'umesh@cs.iitb.ac.in', '', '[" Adaptive Service Orientation", " Managing virtualization and server consolidation in Clouds", " Adaptive QoS based routing in DEBN"]', '[]', 'http://www.cse.iitb.ac.in/~umesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Pushpak Bhattacharya', '', 'CS', '', 'pb@cs.iitb.ac.in', '', '[" Natural Language Processing", " Machine Learning", " Machine Translation", " Cross\r\nLingual IR and Web Knowledge Processing"]', '[]', 'http://www.cse.iitb.ac.in/~pb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratim Biswas', '', 'CS', '', 'sb@cs.iitb.ac.in', '', '[" Parallel and Distributed Processing ", " Neural Nets ", " Architecture"]', '[]', 'http://www.cse.iitb.ac.in/~sb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Soumen Chakrabarti', '', 'CS', '', 'soumen@cs.iitb.ac.in', '', '[" Hypertext databases", " Data mining"]', '[]', 'http://www.cse.iitb.ac.in/~soumen', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratik Chakraborty', '', 'CS', '', 'supratik@cs.iitb.ac.in', '', '[" Formal techniques for analysis", " verification", " validation of digital systems", " Asynchronous timing analysis."]', '[]', 'http://www.cse.iitb.ac.in/~supratik', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sharat Chandran', '', 'CS', '', 'sharat@cs.iitb.ac.in', '', '[" Graphics", " Computer Vision", " Computational Geometry", " Parallel Algorithms", " Visualization", " Medical Imaging"]', '[]', 'http://www.cse.iitb.ac.in/~sharat', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Parag Chaudhuri', '', 'CS', '', 'paragc@cs.iitb.ac.in', '', '[" Animation", " Computer Graphics", " Virtual and Augmented Reality", " Geometric Computer Vision\r\n"]', '[]', 'http://www.cse.iitb.ac.in/~paragc', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kameswari Chebrolu', '', 'CS', '', 'chebrolu@cs.iitb.ac.in', '', '[" architecture and protocol design in wired", " wireless and sensor networks; \r\ndevelopment of appropriate technology."]', '[]', 'http://www.cse.iitb.ac.in/~chebrolu', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Om P. Damani', '', 'CS', '', 'damani@cs.iitb.ac.in', '', '[" Program Derivation", " Large Scale Systems", "  Technology for Social Development"]', '[]', 'http://www.cse.iitb.ac.in/~damani', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Dhananjay Madhav Dhamdhere', '', 'CS', '', 'dmd@cs.iitb.ac.in', '', '[" Distributed Algorithms", " Programming Languages", " Operating Systems", " Optimizing Compilers"]', '[]', 'http://www.cse.iitb.ac.in/~dmd', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit A Diwan', '', 'CS', '', 'aad@cs.iitb.ac.in', '', '[" Algorithms", " Theoretical Computer Science"]', '[]', 'http://www.cse.iitb.ac.in/~aad', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sridhar Iyer', '', 'CS', '', 'sri@cs.iitb.ac.in', '', '[" Mobile Computing", " Distributed Systems", " Educational Software."]', '[]', 'http://www.cse.iitb.ac.in/~sri', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Saketha Nath J.', '', 'CS', '', 'saketh@cs.iitb.ac.in', '', '[" Machine Learning", " Data Mining", " Convex Optimization"]', '[]', 'http://www.cse.iitb.ac.in/~saketh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Rushikesh K. Joshi', '', 'CS', '', 'rkj@cs.iitb.ac.in', '', '[" Object Oriented Systems", " Distributed Systems", " Software Architectures"]', '[]', 'http://www.cse.iitb.ac.in/~rkj', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Uday Khedker', '', 'CS', '', 'uday@cs.iitb.ac.in', '', '["  Programming Languages", " Compilers", " Data Flow Analysis."]', '[]', 'http://www.cse.iitb.ac.in/~uday', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Purushottam Kulkarni', '', 'CS', '', 'puru@cs.iitb.ac.in', '', '[" Wireless and sensor networks", " virtualization", " distributed systems and data dissemination."]', '[]', 'http://www.cse.iitb.ac.in/~puru', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nutan Limaye', '', 'CS', '', 'nutan@cs.iitb.ac.in', '', '[" Algorithms and Complexity Theory"]', '[]', 'http://www.cse.iitb.ac.in/~nutan', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bernard Menezes', '', 'CS', '', 'bernard@cs.iitb.ac.in', '', '[" Information Appliances", " Electronic Commerce", " Java Security", " Parallel Computing", " Time Series Forecasting "]', '[]', 'http://www.cse.iitb.ac.in/~bernard', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Deepak B. Phatak', '', 'CS', '', 'dbp@cs.iitb.ac.in', '', '[" Data Base Management Systems", " Software Engineering", " System Performance Evaluation", " Distributed Client Server Information Systems."]', '[]', 'http://www.cse.iitb.ac.in/~dbp', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit Rajwade', '', 'CS', '', 'ajitvr@cs.iitb.ac.in', '', '[" Image Processing", " Computer Vision", " Image Restoration", " Image Compression", " Probability Density Estimation", " Bayesian Methods", " Compressive Sensing and Matrix Completion"]', '[]', 'http://www.cse.iitb.ac.in/~ajitvr', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krithi Ramamritham', '', 'CS', '', 'krithi@cs.iitb.ac.in', '', '[" Real time systems", " Databases."]', '[]', 'http://www.cse.iitb.ac.in/~krithi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bhaskar Raman', '', 'CS', '', 'br@cs.iitb.ac.in', '', '[" Computer networks", " Wireless systems", " Communication system design for developing regions"]', '[]', 'http://www.cse.iitb.ac.in/~br', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ganesh Ramkrishnan', '', 'CS', '', 'ganesh@cs.iitb.ac.in', '', '[" Statistical Relational Learning", " Graphical Models", " Some other topics in\r\nMachine Learning such as Support Vector Machines", " Information Extraction"]', '[]', 'http://www.cse.iitb.ac.in/~ganesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Abhiram Ranade', '', 'CS', '', 'ranade@cs.iitb.ac.in', '', '[" Algorithms and Combinatorial Optimization"]', '[]', 'http://www.cse.iitb.ac.in/~ranade', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krishna S', '', 'CS', '', 'krishnas@cs.iitb.ac.in', '', '[" Formal Methods", " Bio-inspired Computing"]', '[]', 'http://www.cse.iitb.ac.in/~krishnas', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Akshay S.', '', 'CS', '', 'akshayss@cs.iitb.ac.in', '', '[" Formal methods"]', '[]', 'http://www.cse.iitb.ac.in/~akshayss', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Amitabha Sanyal', '', 'CS', '', 'as@cs.iitb.ac.in', '', '[" Functional Programming", " Compilers", " and Programming Languages"]', '[]', 'http://www.cse.iitb.ac.in/~as', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sunita Sarawagi', '', 'CS', '', 'sunita@cs.iitb.ac.in', '', '[" Machine Learning", " Databases", " Data mining", "  and Graphical Models as applied to domains like web information extraction", " data integration", "  social networking."]', '[]', 'http://www.cse.iitb.ac.in/~sunita', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nandlal L. Sarda', '', 'CS', '', 'nls@cs.iitb.ac.in', '', '["  Databases", " Information Systems", " Software Engineering"]', '[]', 'http://www.cse.iitb.ac.in/~nls', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'G. Sivakumar', '', 'CS', '', 'siva@cs.iitb.ac.in', '', '["  Automated Reasoning", " Logic Programming", " Rewrite Systems", " Networks", " Distributed Systems"]', '[]', 'http://www.cse.iitb.ac.in/~siva', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Milind Sohoni', '', 'CS', '', 'sohoni@cs.iitb.ac.in', '', '["  Combinatorial Optimization", " Mathematical Programming", " Algorithms"]', '[]', 'http://www.cse.iitb.ac.in/~sohoni', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'S. Sudarshan (Department Head)', '', 'CS', '', 'sudarsha@cs.iitb.ac.in', '', '[" Query processing and optimization", " Keyword querying on structured and semi-structured data", " Testing database applications"]', '[]', 'http://www.cse.iitb.ac.in/~sudarsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ashutosh Trivedi', '', 'CS', '', 'trivedi@cs.iitb.ac.in', '', '[" Formal Methods in Verification and Synthesis", " Cyber-Physical Systems", ""]', '[]', 'http://www.cse.iitb.ac.in/~trivedi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sundar Vishwanathan', '', 'CS', '', 'sundar@cs.iitb.ac.in', '', '[" Algorithms", " Combinatorics", " Complexity Theory."]', '[]', 'http://www.cse.iitb.ac.in/~sundar', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Mythili Vutukuru', '', 'CS', '', 'mythili@cs.iitb.ac.in', '', '[" Computer Networking", " Wireless Communication", " Distributed Systems", " Network Security"]', '[]', 'http://www.cse.iitb.ac.in/~mythili', '')
+                        
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bharat Adsul', '', 'CS', '', 'adsul@cs.iitb.ac.in', '', '[" Formal methods in Concurrency", " Logics and Games", " Geometric Complexity Theory"]', '[]', 'http://www.cse.iitb.ac.in/~adsul', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Varsha Apte', '', 'CS', '', 'varsha@cs.iitb.ac.in', '', '[" Performance Evaluation of Computer Systems and Networks"]', '[]', 'http://www.cse.iitb.ac.in/~varsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kavi Arya', '', 'CS', '', 'kavi@cs.iitb.ac.in', '', '[" Functional Programming Applications (Domain Specific Languages)", " Embedded Systems/ Parallel Programming Languages", " Distance Learning"]', '[]', 'http://www.cse.iitb.ac.in/~kavi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Suyash P. Awate', '', 'CS', '', 'suyash@cs.iitb.ac.in', '', '[" Image Processing", " Medical Image Computing", " Computer Vision", " Statistical Inference", " Machine Learning"]', '[]', 'http://www.cse.iitb.ac.in/~suyash', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Umesh Bellur', '', 'CS', '', 'umesh@cs.iitb.ac.in', '', '[" Adaptive Service Orientation", " Managing virtualization and server consolidation in Clouds", " Adaptive QoS based routing in DEBN"]', '[]', 'http://www.cse.iitb.ac.in/~umesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Pushpak Bhattacharya', '', 'CS', '', 'pb@cs.iitb.ac.in', '', '[" Natural Language Processing", " Machine Learning", " Machine Translation", " Cross\r\nLingual IR and Web Knowledge Processing"]', '[]', 'http://www.cse.iitb.ac.in/~pb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratim Biswas', '', 'CS', '', 'sb@cs.iitb.ac.in', '', '[" Parallel and Distributed Processing ", " Neural Nets ", " Architecture"]', '[]', 'http://www.cse.iitb.ac.in/~sb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Soumen Chakrabarti', '', 'CS', '', 'soumen@cs.iitb.ac.in', '', '[" Hypertext databases", " Data mining"]', '[]', 'http://www.cse.iitb.ac.in/~soumen', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratik Chakraborty', '', 'CS', '', 'supratik@cs.iitb.ac.in', '', '[" Formal techniques for analysis", " verification", " validation of digital systems", " Asynchronous timing analysis."]', '[]', 'http://www.cse.iitb.ac.in/~supratik', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sharat Chandran', '', 'CS', '', 'sharat@cs.iitb.ac.in', '', '[" Graphics", " Computer Vision", " Computational Geometry", " Parallel Algorithms", " Visualization", " Medical Imaging"]', '[]', 'http://www.cse.iitb.ac.in/~sharat', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Parag Chaudhuri', '', 'CS', '', 'paragc@cs.iitb.ac.in', '', '[" Animation", " Computer Graphics", " Virtual and Augmented Reality", " Geometric Computer Vision\r\n"]', '[]', 'http://www.cse.iitb.ac.in/~paragc', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kameswari Chebrolu', '', 'CS', '', 'chebrolu@cs.iitb.ac.in', '', '[" architecture and protocol design in wired", " wireless and sensor networks; \r\ndevelopment of appropriate technology."]', '[]', 'http://www.cse.iitb.ac.in/~chebrolu', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Om P. Damani', '', 'CS', '', 'damani@cs.iitb.ac.in', '', '[" Program Derivation", " Large Scale Systems", "  Technology for Social Development"]', '[]', 'http://www.cse.iitb.ac.in/~damani', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Dhananjay Madhav Dhamdhere', '', 'CS', '', 'dmd@cs.iitb.ac.in', '', '[" Distributed Algorithms", " Programming Languages", " Operating Systems", " Optimizing Compilers"]', '[]', 'http://www.cse.iitb.ac.in/~dmd', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit A Diwan', '', 'CS', '', 'aad@cs.iitb.ac.in', '', '[" Algorithms", " Theoretical Computer Science"]', '[]', 'http://www.cse.iitb.ac.in/~aad', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sridhar Iyer', '', 'CS', '', 'sri@cs.iitb.ac.in', '', '[" Mobile Computing", " Distributed Systems", " Educational Software."]', '[]', 'http://www.cse.iitb.ac.in/~sri', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Saketha Nath J.', '', 'CS', '', 'saketh@cs.iitb.ac.in', '', '[" Machine Learning", " Data Mining", " Convex Optimization"]', '[]', 'http://www.cse.iitb.ac.in/~saketh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Rushikesh K. Joshi', '', 'CS', '', 'rkj@cs.iitb.ac.in', '', '[" Object Oriented Systems", " Distributed Systems", " Software Architectures"]', '[]', 'http://www.cse.iitb.ac.in/~rkj', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Uday Khedker', '', 'CS', '', 'uday@cs.iitb.ac.in', '', '["  Programming Languages", " Compilers", " Data Flow Analysis."]', '[]', 'http://www.cse.iitb.ac.in/~uday', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Purushottam Kulkarni', '', 'CS', '', 'puru@cs.iitb.ac.in', '', '[" Wireless and sensor networks", " virtualization", " distributed systems and data dissemination."]', '[]', 'http://www.cse.iitb.ac.in/~puru', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nutan Limaye', '', 'CS', '', 'nutan@cs.iitb.ac.in', '', '[" Algorithms and Complexity Theory"]', '[]', 'http://www.cse.iitb.ac.in/~nutan', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bernard Menezes', '', 'CS', '', 'bernard@cs.iitb.ac.in', '', '[" Information Appliances", " Electronic Commerce", " Java Security", " Parallel Computing", " Time Series Forecasting "]', '[]', 'http://www.cse.iitb.ac.in/~bernard', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Deepak B. Phatak', '', 'CS', '', 'dbp@cs.iitb.ac.in', '', '[" Data Base Management Systems", " Software Engineering", " System Performance Evaluation", " Distributed Client Server Information Systems."]', '[]', 'http://www.cse.iitb.ac.in/~dbp', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit Rajwade', '', 'CS', '', 'ajitvr@cs.iitb.ac.in', '', '[" Image Processing", " Computer Vision", " Image Restoration", " Image Compression", " Probability Density Estimation", " Bayesian Methods", " Compressive Sensing and Matrix Completion"]', '[]', 'http://www.cse.iitb.ac.in/~ajitvr', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krithi Ramamritham', '', 'CS', '', 'krithi@cs.iitb.ac.in', '', '[" Real time systems", " Databases."]', '[]', 'http://www.cse.iitb.ac.in/~krithi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bhaskar Raman', '', 'CS', '', 'br@cs.iitb.ac.in', '', '[" Computer networks", " Wireless systems", " Communication system design for developing regions"]', '[]', 'http://www.cse.iitb.ac.in/~br', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ganesh Ramkrishnan', '', 'CS', '', 'ganesh@cs.iitb.ac.in', '', '[" Statistical Relational Learning", " Graphical Models", " Some other topics in\r\nMachine Learning such as Support Vector Machines", " Information Extraction"]', '[]', 'http://www.cse.iitb.ac.in/~ganesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Abhiram Ranade', '', 'CS', '', 'ranade@cs.iitb.ac.in', '', '[" Algorithms and Combinatorial Optimization"]', '[]', 'http://www.cse.iitb.ac.in/~ranade', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krishna S', '', 'CS', '', 'krishnas@cs.iitb.ac.in', '', '[" Formal Methods", " Bio-inspired Computing"]', '[]', 'http://www.cse.iitb.ac.in/~krishnas', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Akshay S.', '', 'CS', '', 'akshayss@cs.iitb.ac.in', '', '[" Formal methods"]', '[]', 'http://www.cse.iitb.ac.in/~akshayss', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Amitabha Sanyal', '', 'CS', '', 'as@cs.iitb.ac.in', '', '[" Functional Programming", " Compilers", " and Programming Languages"]', '[]', 'http://www.cse.iitb.ac.in/~as', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sunita Sarawagi', '', 'CS', '', 'sunita@cs.iitb.ac.in', '', '[" Machine Learning", " Databases", " Data mining", "  and Graphical Models as applied to domains like web information extraction", " data integration", "  social networking."]', '[]', 'http://www.cse.iitb.ac.in/~sunita', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nandlal L. Sarda', '', 'CS', '', 'nls@cs.iitb.ac.in', '', '["  Databases", " Information Systems", " Software Engineering"]', '[]', 'http://www.cse.iitb.ac.in/~nls', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'G. Sivakumar', '', 'CS', '', 'siva@cs.iitb.ac.in', '', '["  Automated Reasoning", " Logic Programming", " Rewrite Systems", " Networks", " Distributed Systems"]', '[]', 'http://www.cse.iitb.ac.in/~siva', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Milind Sohoni', '', 'CS', '', 'sohoni@cs.iitb.ac.in', '', '["  Combinatorial Optimization", " Mathematical Programming", " Algorithms"]', '[]', 'http://www.cse.iitb.ac.in/~sohoni', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'S. Sudarshan (Department Head)', '', 'CS', '', 'sudarsha@cs.iitb.ac.in', '', '[" Query processing and optimization", " Keyword querying on structured and semi-structured data", " Testing database applications"]', '[]', 'http://www.cse.iitb.ac.in/~sudarsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ashutosh Trivedi', '', 'CS', '', 'trivedi@cs.iitb.ac.in', '', '[" Formal Methods in Verification and Synthesis", " Cyber-Physical Systems", ""]', '[]', 'http://www.cse.iitb.ac.in/~trivedi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sundar Vishwanathan', '', 'CS', '', 'sundar@cs.iitb.ac.in', '', '[" Algorithms", " Combinatorics", " Complexity Theory."]', '[]', 'http://www.cse.iitb.ac.in/~sundar', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Mythili Vutukuru', '', 'CS', '', 'mythili@cs.iitb.ac.in', '', '[" Computer Networking", " Wireless Communication", " Distributed Systems", " Network Security"]', '[]', 'http://www.cse.iitb.ac.in/~mythili', '')
+                        
+DEBUG:root:Reading Bombay faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Varsha Apte', '', 'CS', '', 'varsha@cs.iitb.ac.in', '', '[" Performance Evaluation of Computer Systems and Networks"]', '[]', 'http://www.cse.iitb.ac.in/~varsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kavi Arya', '', 'CS', '', 'kavi@cs.iitb.ac.in', '', '[" Functional Programming Applications (Domain Specific Languages)", " Embedded Systems/ Parallel Programming Languages", " Distance Learning"]', '[]', 'http://www.cse.iitb.ac.in/~kavi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Suyash P. Awate', '', 'CS', '', 'suyash@cs.iitb.ac.in', '', '[" Image Processing", " Medical Image Computing", " Computer Vision", " Statistical Inference", " Machine Learning"]', '[]', 'http://www.cse.iitb.ac.in/~suyash', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Umesh Bellur', '', 'CS', '', 'umesh@cs.iitb.ac.in', '', '[" Adaptive Service Orientation", " Managing virtualization and server consolidation in Clouds", " Adaptive QoS based routing in DEBN"]', '[]', 'http://www.cse.iitb.ac.in/~umesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Pushpak Bhattacharya', '', 'CS', '', 'pb@cs.iitb.ac.in', '', '[" Natural Language Processing", " Machine Learning", " Machine Translation", " Cross\r\nLingual IR and Web Knowledge Processing"]', '[]', 'http://www.cse.iitb.ac.in/~pb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratim Biswas', '', 'CS', '', 'sb@cs.iitb.ac.in', '', '[" Parallel and Distributed Processing ", " Neural Nets ", " Architecture"]', '[]', 'http://www.cse.iitb.ac.in/~sb', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Soumen Chakrabarti', '', 'CS', '', 'soumen@cs.iitb.ac.in', '', '[" Hypertext databases", " Data mining"]', '[]', 'http://www.cse.iitb.ac.in/~soumen', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Supratik Chakraborty', '', 'CS', '', 'supratik@cs.iitb.ac.in', '', '[" Formal techniques for analysis", " verification", " validation of digital systems", " Asynchronous timing analysis."]', '[]', 'http://www.cse.iitb.ac.in/~supratik', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sharat Chandran', '', 'CS', '', 'sharat@cs.iitb.ac.in', '', '[" Graphics", " Computer Vision", " Computational Geometry", " Parallel Algorithms", " Visualization", " Medical Imaging"]', '[]', 'http://www.cse.iitb.ac.in/~sharat', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Parag Chaudhuri', '', 'CS', '', 'paragc@cs.iitb.ac.in', '', '[" Animation", " Computer Graphics", " Virtual and Augmented Reality", " Geometric Computer Vision\r\n"]', '[]', 'http://www.cse.iitb.ac.in/~paragc', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Kameswari Chebrolu', '', 'CS', '', 'chebrolu@cs.iitb.ac.in', '', '[" architecture and protocol design in wired", " wireless and sensor networks; \r\ndevelopment of appropriate technology."]', '[]', 'http://www.cse.iitb.ac.in/~chebrolu', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Om P. Damani', '', 'CS', '', 'damani@cs.iitb.ac.in', '', '[" Program Derivation", " Large Scale Systems", "  Technology for Social Development"]', '[]', 'http://www.cse.iitb.ac.in/~damani', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Dhananjay Madhav Dhamdhere', '', 'CS', '', 'dmd@cs.iitb.ac.in', '', '[" Distributed Algorithms", " Programming Languages", " Operating Systems", " Optimizing Compilers"]', '[]', 'http://www.cse.iitb.ac.in/~dmd', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit A Diwan', '', 'CS', '', 'aad@cs.iitb.ac.in', '', '[" Algorithms", " Theoretical Computer Science"]', '[]', 'http://www.cse.iitb.ac.in/~aad', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ashwin Gumaste', '', 'CS', '', '', '', '[]', '[]', 'http://www.cse.iitb.ac.in/~ashwin', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sridhar Iyer', '', 'CS', '', 'sri@cs.iitb.ac.in', '', '[" Mobile Computing", " Distributed Systems", " Educational Software."]', '[]', 'http://www.cse.iitb.ac.in/~sri', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Saketha Nath J.', '', 'CS', '', 'saketh@cs.iitb.ac.in', '', '[" Machine Learning", " Convex Optimization", " some applications of machine learning"]', '[]', 'http://www.cse.iitb.ac.in/~saketh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Rushikesh K. Joshi', '', 'CS', '', 'rkj@cs.iitb.ac.in', '', '[" Object Oriented Systems", " Distributed Systems", " Software Architectures"]', '[]', 'http://www.cse.iitb.ac.in/~rkj', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Uday Khedker', '', 'CS', '', 'uday@cs.iitb.ac.in', '', '["  Programming Languages", " Compilers", " Data Flow Analysis."]', '[]', 'http://www.cse.iitb.ac.in/~uday', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Purushottam Kulkarni', '', 'CS', '', 'puru@cs.iitb.ac.in', '', '[" Wireless and sensor networks", " virtualization", " distributed systems and data dissemination."]', '[]', 'http://www.cse.iitb.ac.in/~puru', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nutan Limaye', '', 'CS', '', 'nutan@cs.iitb.ac.in', '', '[" Algorithms and Complexity Theory"]', '[]', 'http://www.cse.iitb.ac.in/~nutan', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bernard Menezes', '', 'CS', '', 'bernard@cs.iitb.ac.in', '', '[" Information Appliances", " Electronic Commerce", " Java Security", " Parallel Computing", " Time Series Forecasting "]', '[]', 'http://www.cse.iitb.ac.in/~bernard', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Deepak B. Phatak', '', 'CS', '', 'dbp@cs.iitb.ac.in', '', '[" Data Base Management Systems", " Software Engineering", " System Performance Evaluation", " Distributed Client Server Information Systems."]', '[]', 'http://www.cse.iitb.ac.in/~dbp', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ajit Rajwade', '', 'CS', '', 'ajitvr@cs.iitb.ac.in', '', '[" Image Processing", " Computer Vision", " Image Restoration", " Image Compression", " Probability Density Estimation", " Bayesian Methods", " Compressive Sensing and Matrix Completion"]', '[]', 'http://www.cse.iitb.ac.in/~ajitvr', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krithi Ramamritham', '', 'CS', '', 'krithi@cs.iitb.ac.in', '', '[" Real time systems", " Databases."]', '[]', 'http://www.cse.iitb.ac.in/~krithi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Bhaskar Raman', '', 'CS', '', 'br@cs.iitb.ac.in', '', '[" Computer networks", " Wireless systems", " Communication system design for developing regions"]', '[]', 'http://www.cse.iitb.ac.in/~br', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ganesh Ramkrishnan', '', 'CS', '', 'ganesh@cs.iitb.ac.in', '', '[" Statistical Relational Learning", " Graphical Models", " Some other topics in\r\nMachine Learning such as Support Vector Machines", " Information Extraction"]', '[]', 'http://www.cse.iitb.ac.in/~ganesh', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Abhiram Ranade', '', 'CS', '', 'ranade@cs.iitb.ac.in', '', '[" Algorithms and Combinatorial Optimization"]', '[]', 'http://www.cse.iitb.ac.in/~ranade', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Krishna S', '', 'CS', '', 'krishnas@cs.iitb.ac.in', '', '[" Formal Methods", " Bio-inspired Computing"]', '[]', 'http://www.cse.iitb.ac.in/~krishnas', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Akshay S.', '', 'CS', '', 'akshayss@cs.iitb.ac.in', '', '[" Formal methods"]', '[]', 'http://www.cse.iitb.ac.in/~akshayss', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Amitabha Sanyal', '', 'CS', '', 'as@cs.iitb.ac.in', '', '[" Functional Programming", " Compilers", " and Programming Languages"]', '[]', 'http://www.cse.iitb.ac.in/~as', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sunita Sarawagi', '', 'CS', '', 'sunita@cs.iitb.ac.in', '', '[" Machine Learning", " Databases", " Data mining", "  and Graphical Models as applied to domains like web information extraction", " data integration", "  social networking."]', '[]', 'http://www.cse.iitb.ac.in/~sunita', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Nandlal L. Sarda', '', 'CS', '', 'nls@cs.iitb.ac.in', '', '["  Databases", " Information Systems", " Software Engineering"]', '[]', 'http://www.cse.iitb.ac.in/~nls', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'G. Sivakumar', '', 'CS', '', 'siva@cs.iitb.ac.in', '', '["  Automated Reasoning", " Logic Programming", " Rewrite Systems", " Networks", " Distributed Systems"]', '[]', 'http://www.cse.iitb.ac.in/~siva', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Milind Sohoni', '', 'CS', '', 'sohoni@cs.iitb.ac.in', '', '["  Combinatorial Optimization", " Mathematical Programming", " Algorithms"]', '[]', 'http://www.cse.iitb.ac.in/~sohoni', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'S. Sudarshan (Department Head)', '', 'CS', '', 'sudarsha@cs.iitb.ac.in', '', '[" Query processing and optimization", " Keyword querying on structured and semi-structured data", " Testing database applications"]', '[]', 'http://www.cse.iitb.ac.in/~sudarsha', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Ashutosh Trivedi', '', 'CS', '', 'trivedi@cs.iitb.ac.in', '', '[" Formal Methods in Verification and Synthesis", " Cyber-Physical Systems", ""]', '[]', 'http://www.cse.iitb.ac.in/~trivedi', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Sundar Vishwanathan', '', 'CS', '', 'sundar@cs.iitb.ac.in', '', '[" Algorithms", " Combinatorics", " Complexity Theory."]', '[]', 'http://www.cse.iitb.ac.in/~sundar', '')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(2, 'Mythili Vutukuru', '', 'CS', '', 'mythili@cs.iitb.ac.in', '', '[" Computer Networking", " Wireless Communication", " Distributed Systems", " Network Security"]', '[]', 'http://www.cse.iitb.ac.in/~mythili', '')
+                        

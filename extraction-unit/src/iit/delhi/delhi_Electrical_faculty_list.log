@@ -1,0 +1,105 @@
+DEBUG:root:Reading Delhi Electrical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Bhim Singh', '', 'EE', '', ' ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/bhimsingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Madhusudan Singh', '', 'EE', '', ' msingh @ ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/msingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Abhisek Dixit', '', 'EE', '', 'Fax   : +91-11-2658 1606
+  ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/adixit.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. H.M.Gupta', '', 'EE', '', 'hmgupta@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/hmgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Vijay K. Vaishnavi', '', 'EE', '', 'vvaishna@gsu.edu ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/vaishnavi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. A.K.Pathak', '', 'EE', '', 'ajaykr@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/akpathak.html', '[]')
+                        
+DEBUG:root:Reading Delhi Electrical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. M.Veerachary', '', 'EE', '', '      mvchary@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/mveerachary.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Madhusudan Singh', '', 'EE', '', ' msingh @ ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/msingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Abhisek Dixit', '', 'EE', '', 'Fax   : +91-11-2658 1606
+  ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/adixit.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. H.M.Gupta', '', 'EE', '', 'hmgupta@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/hmgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Vijay K. Vaishnavi', '', 'EE', '', 'vvaishna@gsu.edu ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/vaishnavi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. A.K.Pathak', '', 'EE', '', 'ajaykr@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/akpathak.html', '[]')
+                        
+DEBUG:root:Reading Delhi Electrical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. M.Veerachary', '', 'EE', '', '      mvchary@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/mveerachary.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Madhusudan Singh', '', 'EE', '', ' msingh @ ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/msingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Abhisek Dixit', '', 'EE', '', 'Fax   : +91-11-2658 1606
+  ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/adixit.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. H.M.Gupta', '', 'EE', '', 'hmgupta@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/hmgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Vijay K. Vaishnavi', '', 'EE', '', 'vvaishna@gsu.edu ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/vaishnavi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. A.K.Pathak', '', 'EE', '', 'ajaykr@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/akpathak.html', '[]')
+                        
+DEBUG:root:Reading Delhi Electrical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. M.Veerachary', '', 'EE', '', '      mvchary@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/mveerachary.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Madhusudan Singh', '', 'EE', '', ' msingh @ ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/msingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Tarun K Chandrayadula', '', 'EE', '', 'Fax   : +91-11-2658 1606
+  ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/tkchandr.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. H.M.Gupta', '', 'EE', '', 'hmgupta@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/hmgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Vijay K. Vaishnavi', '', 'EE', '', 'vvaishna@gsu.edu ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/vaishnavi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. A.K.Pathak', '', 'EE', '', 'ajaykr@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/akpathak.html', '[]')
+                        
+DEBUG:root:Reading Delhi Electrical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. M.Veerachary', '', 'EE', '', '      mvchary@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/mveerachary.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Madhusudan Singh', '', 'EE', '', ' msingh @ ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/msingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Tarun K Chandrayadula', '', 'EE', '', 'Fax   : +91-11-2658 1606
+  ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/tkchandr.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. H.M.Gupta', '', 'EE', '', 'hmgupta@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/hmgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. Vijay K. Vaishnavi', '', 'EE', '', 'vvaishna@gsu.edu ', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/vaishnavi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dr. A.K.Pathak', '', 'EE', '', 'ajaykr@ee.iitd.ac.in', '', '[]', '[]', 'http://ee.iitd.ernet.in/people/akpathak.html', '[]')
+                        

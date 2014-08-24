@@ -1,0 +1,119 @@
+DEBUG:root:Reading Delhi Mechanical faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Chawla,  Anoop    (Henry Ford Chair Professor)', '', 'ME', '', 'achawla@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~achawla/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Gupta, A.D.', '', 'ME', '', 'gupta@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/adgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Darpe, A.K.', '', 'ME', '', 'akdarpe@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~akdarpe/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Gupta, Amit', '', 'ME', '', 'agupta@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~agupta/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Ray, Anjan', '', 'ME', '', 'raya@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/anjanray.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Premachandran, B.', '', 'ME', '', 'prem@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/bpremachandran.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Ravi Kumar, D.', '', 'ME', '', 'dravi@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~dravi/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dubey, Devendra Kr.', '', 'ME', '', 'dkdubey@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~dkdubey', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Hirani, Harish', '', 'ME', '', 'hirani@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~hirani/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Dutt, J.K.', '', 'ME', '', 'jkdutt@yahoo.co.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/jkdutt.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Gupta, K    (BHEL Chair Professor )', '', 'ME', '', 'kgupta@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/kgupta.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Seth, Kiran', '', 'ME', '', 'kseth@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/kiranseth.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Ravi, M.R.', '', 'ME', '', 'ravimr@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~ravimr/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Kulkarni, M.S.', '', 'ME', '', 'mskulkarni@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~mskulkarni/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Bhatnagar, Naresh', '', 'ME', '', 'nareshb@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/nareshbhatnagar.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Bolia, Nomesh', '', 'ME', '', 'nomesh@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~nomesh/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Pandey, P. M.', '', 'ME', '', 'pmpandey@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~pmpandey/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Subbarao, P.M.V.', '', 'ME', '', 'pmvs@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~pmvs/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Rao, P.V.', '', 'ME', '', 'pvrao@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/pvrao.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Rao, P.V.M.', '', 'ME', '', 'pvmrao@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~pvmrao/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Talukdar, Prabal', '', 'ME', '', 'prabal@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~prabal/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Pandey, R. K.', '', 'ME', '', 'rajpandey@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/rkpandey.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Aravindan, S', '', 'ME', '', 'aravindan@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/saravindan.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'deshmukh@mech.iitd.ac.in', '', 'ME', '', '', '', '[]', '[]', 'mailto:deshmukh@mech.iitd.ac.in', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Saha, S.K.    (Naren Gupta Chair Professor)', '', 'ME', '', 'saha@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~saha/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Singh, S.P.', '', 'ME', '', 'singhsp@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/spsingh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Kale, S.R.   (Head of the Department )', '', 'ME', '', 'srk@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/srkale.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Modak, S.V.', '', 'ME', '', 'svmodak@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~svmodak', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Kohli, Sangeeta', '', 'ME', '', 'skohli@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/sangeetakohli.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Jain, Sanjeev', '', 'ME', '', 'sanjeevj@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~sanjeevj/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Kondaraju, Sasidhar', '', 'ME', '', 'ksasidhar@mech.iitd.ac.in', '', '[]', '[]', 'http://www.cfdilab.com/index.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Datta, Subhra', '', 'ME', '', 'subhra.datta@mech.iitd.ernet.in', '', '[]', '[]', 'http://web.iitd.ac.in/~subhra.datta/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Ghosh, Sudarsan', '', 'ME', '', 'ghoshs@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/sudarsanghosh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'sudipto@mech.iitd.ac.in', '', 'ME', '', '', '', '[]', '[]', 'mailto:sudipto@mech.iitd.ac.in', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Jha, Sunil', '', 'ME', '', 'suniljha@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~suniljha/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Pandey, Sunil', '', 'ME', '', 'spandey@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/sunilpandey.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Bahga, Supreet Singh', '', 'ME', '', 'bahga@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~bahga/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Kundra, T.K.    (Professor Emeritus)', '', 'ME', '', 'tkkundra@mech.iitd.ac.in', '', '[]', '[]', 'http://mech.iitd.ac.in/faculty/tkkundra.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(4, 'Jain, Vipul', '', 'ME', '', 'vjain@mech.iitd.ac.in', '', '[]', '[]', 'http://web.iitd.ac.in/~vjain//', '[]')
+                        

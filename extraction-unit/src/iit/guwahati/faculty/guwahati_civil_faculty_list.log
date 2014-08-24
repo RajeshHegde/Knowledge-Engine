@@ -1,0 +1,382 @@
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Anjan Dutta", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Anjan_Dutta.jpg", "adutta@iitg.ernet.in", "", "["Areas of Interest:", "Finite Element Mesh Generation", "Optimization", "Control, Health Monitoring and Retrofitting of structures"]", "[]", "http://www.iitg.ac.in/adutta/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Arup K. Sarma", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Arup_K_Sarma.jpg", "aks@iitg.ernet.in", "", "["Areas of Interest:", "Modeling &amp; simulation in Free Surface Flow", "Heuristic Method in Reservoir Optimization", "GIS based Watershed Modeling"]", "[]", "http://www.iitg.ac.in/aks/", ""Water Resources and Hydraulic Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Chandan Mahanta", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Chandan_Mahanta.jpg", "chandan@iitg.ernet.in", "", "["Areas of Interest:", "Water Quality", "Sediment Dynamics in Fluvial Systems", "Environmental Impact, Risk Assessment and Management", "Environmental Geo-informatics", "Engineering Geology"]", "[]", "http://www.iitg.ac.in/chandan/", ""Environmental Engg. &amp; Engineering Geology"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Mohammad Jawed", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Mohammad_Jawed.jpg", "jawed@iitg.ernet.in", "", "["Areas of Interest:", "Biological Processes", "Anaerobic Wastewater Treatment", "Heavy Metal Removal and Recovery", "Water Treatment and Supply", "Domestic &amp; Industrial Wastewater Treatment"]", "[]", "http://www.iitg.ac.in/jawed/", ""Environmental Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sajal K. Deb", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sajal_K_Deb.jpg", "skdeb@iitg.ernet.in", "", "["Areas of Interest:", "Passive and semi-active control", "Performance based seismic design", "System identification &amp; structural health monitoring", "Seismic damage assessment"]", "[]", "http://www.iitg.ac.in/skdeb/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Subashisa Dutta", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Subashisa_Dutta.jpg", "subashisa@iitg.ernet.in", "", "["Areas of Interest:", "Meso-Scale Distributed hydrological modeling", "Satellite Remote Sensing and GIS for Water resources Management", "Computational river hydraulics and its applications", "Watershed and Irrigation Management"]", "[]", "http://www.iitg.ac.in/subashisa/", ""Irrigation And Hydraulics Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sudip Talukdar", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sudip_Talukdar.jpg", "staluk@iitg.ernet.in", "", "["Areas of Interest:", "Structural Dynamics", "Bridge Engineering", "Wind induced vibration &amp; control", "Non destructive techniques"]", "[]", "http://www.iitg.ac.in/staluk/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "", "", "", "", "", "", "[]", "[]", "", "[]")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Arbind K. Singh", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Arbind_K_Singh.jpg", "arvind@iitg.ernet.in", "", "["Areas of Interest:", "Information Technology in Construction Engineering", "Object-Oriented Programming", "Constitutive modeling"]", "[]", "http://www.iitg.ac.in/arvind/", ""Computational Mechanics, IT in Construction Management"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Baleshwar Singh", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Baleshwar_Singh.jpg", "baleshwar@iitg.ernet.in", "", "["Areas of Interest:", "Marine Geotechnology", "Modelling of Onshore &amp; Offshore Foundations", "Soil Stabilization &amp; Ground Modification", "Pavement Subgrade &amp; Site Characterization"]", "[]", "http://www.iitg.ac.in/baleshwar/", ""Geotechnical and Geoenvironmental Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Gautam Barua", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Gautam_Barua.jpg", "g_barua@iitg.ernet.in", "", "["Areas of Interest:", "Flow through porous media"]", "[]", "http://www.iitg.ac.in/g_barua/", ""Flow through porous media"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Konjengbam Darunkumar Singh", "", "CV", "http://www.iitg.ac.in/civil/fac_images/K_Darunkumar_Singh.jpg", "darun@iitg.ernet.in", "", "["Areas of Interest:", "Structural Analysis and Design", "Finite Element Method", "Fracture and Fatigue Mechanics"]", "[]", "http://www.iitg.ac.in/darun/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Pranab K. Ghosh", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Pranab_K_Ghosh.jpg", "pkghosh@iitg.ernet.in", "", "["Areas of Interest:", "Water treatment for domestic and industrial use", "Domestic and Industrial wastewater treatment", "Sludge treatment by physicochemical and biological process"]", "[]", "http://www.iitg.ac.in/pkghosh/", ""Waste water treatment"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Rajib Kumar Bhattacharjya", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Rajib_K_Bhattacharjya.jpg", "rkbc@iitg.ernet.in", "", "["Areas of Interest:", "Water Resources System Management", "Genetic Algorithms", "Artificial Neural Networks"]", "[]", "http://www.iitg.ac.in/rkbc/", ""Hydraulics &amp; Water Resources"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Saswati Chakraborty", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Saswati_Chakraborty.jpg", "saswati@iitg.ernet.in", "", "["Areas of Interest:", "Water and Wastewater Treatment", "Biodegradation of Industrial Wastewater", "Removal of Heavy Metals from Wastewater"]", "[]", "http://www.iitg.ac.in/saswati/", ""Environmental Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sharad Gokhale", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sharad_Gokhale.jpg", "sharadbg@iitg.ernet.in", "", "["Areas of Interest:", "Air pollution and environmental noise", "Air quality modeling for traffic, industries, power plants", "Traffic flow and emission, atmospheric dispersion", "Indoor air quality, EIA, source apportionment, human exposure"]", "[]", "http://www.iitg.ac.in/sharadbg/", ""Environmental Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sreedeep S.", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sreedeep_S.jpg", "srees@iitg.ernet.in", "", "["Areas of Interest:", "Behavioral studies on unsaturated porous media", "Characterization of geo-materials (soils and rocks)", "Thermal characteristics of geo-materials", "Contaminant transport and retention studies", "Waste containment studies", "Landslides"]", "[]", "http://www.iitg.ac.in/srees/", ""Geotechnical Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sujit K. Dash", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sujit_K_Dash.jpg", "sujit@iitg.ernet.in", "", "["Areas of Interest:", "Reinforced Soil Structures", "Shallow and Deep Foundations", "Ground Improvement Techniques"]", "[]", "http://www.iitg.ac.in/sujit/", ""Geotechnical Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Teiborlang L. Ryntathiang", "", "CV", "http://www.iitg.ac.in/civil/fac_images/T_R_Lyngdoh.jpg", "lyngdoh@iitg.ernet.in", "", "["Areas of Interest:", "Pavement Materials", "Precast Concrete Block Pavement", "Cast In-Situ Concrete Block Pavement"]", "[]", "http://www.iitg.ac.in/lyngdoh/", ""Transportation Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "", "", "", "", "", "", "[]", "[]", "", "[]")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "A. Murali Krishna", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Adapa_Muralikrishna.jpg", "amurali@iitg.ernet.in", "", "["Areas of Interest:", "Soil Investigation", "Reinforced Soil Structures", "Geosynthetics and Ground Improvement", "Earthquake Geotechnical Engineering"]", "[]", "http://www.iitg.ac.in/amurali/", ""Geotechnical Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Ajay Kalamdhad", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Ajay_Kalamdhad.jpg", "kajay@iitg.ernet.in", "", "["Areas of Interest:", "Solid waste management", "Mechanical composting and vermicomposting", "Analysis of solid wastes"]", "[]", "http://www.iitg.ac.in/kajay/", ""Environmental Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Akhilesh Kumar Maurya", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Akhilesh_Kumar_Maurya.jpg", "maurya@iitg.ernet.in", "", "["Areas of Interest:", "Driver behaviour", "Traffic flow theory and modeling", "Traffic engineering"]", "[]", "http://www.iitg.ac.in/maurya/", ""Transportation Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Amit Shelke", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Amit_Shelke.jpg", "amitsh@iitg.ernet.in", "", "["Areas of Interest:", "Ultrasonic wave propagation", "Acoustic-Impact detection", "Non-destructive testing"]", "[]", "http://www.iitg.ac.in/amitsh/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Anil Kumar Mishra", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Anil_Kumar_Mishra.JPG", "anilmishra@iitg.ernet.in", "", "["Areas of Interest:", "Chemical compatibility studies of soil-bentonite mixtures", "Waste (municipal, industrial and hazardous) management and disposal", "Unsaturated soil mechanics"]", "[]", "http://www.iitg.ac.in/anilmishra/", ""Geotechnical Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Arindam Dey", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Arindam_Dey.JPG", "arindam.dey@iitg.ernet.in", "", "["Areas of Interest:", "Geosynthetic Reinforced Foundation Beds", "Geotechnical Lumped Parameter and Continuum Mechanics Modeling", "Parameter Estimation of Geotechnical Models", "Optimization, GA, ANN and Soft Computing in Geotechnical Engineering", "Ground Modification and Improvement Practices", "Soil-Structure-Foundation Interaction", "Reinforced Soil Structures", "Landslides and Slope Stability Analysis", "Seismic and Ambient Health Monitoring of Geotechnical Structures", "Reliability and Uncertainty Analysis in Geotechnical Engineering", "Forensic Investigation in Geotechnical Engineering", "Subsurface Profiling and Soil Investigation", "Soil Dynamics and Earthquake Engineering"]", "[]", "http://www.iitg.ac.in/arindam.dey/", ""Geotechnical Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Arunasis Chakraborty", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Arunasis_Chakraborty.jpg", "arunasis@iitg.ernet.in", "", "["Areas of Interest:", "Dynamic and Random Vibration", "System identification and damage detection", "Wavelet analysis"]", "[]", "http://www.iitg.ac.in/arunasis/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Bimlesh Kumar", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Bimlesh_Kumar.bmp", "bimk@iitg.ernet.in", "", "["Areas of Interest:", "Small scale studies of mixing tanks", "Experimental Studies of Aeration Systems", "Sediment Transport analysis", "Pipeline analysis", "CFD simulation", "Surge analysis"]", "[]", "http://www.iitg.ac.in/bimk/", ""Environmental Hydraulics and Sediment Transport"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Bulu Pradhan", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Bulu_Pradhan.jpg", "bulu@iitg.ernet.in", "", "["Areas of Interest:", "Durability studies in concrete", "Corrosion of steel reinforcement and protection measures", "High performance concrete", "Mass transport in cementitious materials", "Non-destructive testing of concrete structures", "Construction management"]", "[]", "http://www.iitg.ac.in/bulu/", ""Civil Engineering Materials &amp; Construction Management"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "C. Mallikarjuna", "", "CV", "http://www.iitg.ac.in/civil/fac_images/C_Mallikarjuna.jpg", "c.mallikarjuna@iitg.ernet.in", "", "["Areas of Interest:", "Traffic flow theory and Modeling", "Traffic data collection and analysis", "Travel demand modeling"]", "[]", "http://www.iitg.ac.in/c.mallikarjuna/", ""Transportation Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Hemant B. Kaushik", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Hemant_Kaushik.jpg", "hemantbk@iitg.ernet.in", "", "["Areas of Interest:", "Earthquake Resistant Design", "Nonlinear Behaviour of Structures", "Retrofitting of Structures", "Finite Element Modeling"]", "[]", "http://www.iitg.ac.in/hemantbk/", ""Structural Engineering, Earthquake Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Hrishikesh Sharma", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Hrishikesh_Sharma.jpg", "shrishi@iitg.ernet.in", "", "["Areas of Interest:", "Impact and Blast Resistant Design", "Reliability Analysis and Performance Based Engineering", "Design and Optimization of Protection Measures"]", "[]", "http://www.iitg.ac.in/shrishi/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Kaustubh Dasgupta", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Kaustubh_Dasgupta.jpg", "kd@iitg.ernet.in", "", "["Areas of Interest:", "Earthquake Engineering", "Design of Reinforced Concrete Structures", "Retrofitting of Structures"]", "[]", "http://www.iitg.ac.in/kd/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Laishram Boeing Singh", "", "CV", "http://www.iitg.ac.in/civil/fac_images/L_Boeing_Singh.JPG", "boeing@iitg.ernet.in", "", "["Areas of Interest:", "Public Private Partnerships", "Risk Management", "Construction Management"]", "[]", "http://www.iitg.ac.in/boeing/", ""Infrastructure Financing and Management"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Manish Kumar Goyal", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Manish_Kumar_Goyal.jpg", "mkgoyal@iitg.ernet.in", "", "["Areas of Interest:", "Stochastic Hydrology and Distributed Hydrological Modeling", "Hydro-climatology and Statistical Downscaling", "Irrigation Management and Crop Modeling Applications", "Multivariate Statistical Analysis, Machine Learning Models and Data Mining"]", "[]", "http://www.iitg.ac.in/mkgoyal/", ""Water Resource Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Rajan Choudhary", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Rajan_Choudhary.jpg", "rajandce@iitg.ernet.in", "", "["Areas of Interest:", "Pavement Analysis and Design", "Highway Construction and Quality Control", "Pavement Material Characterization", "Pavement Evaluation and Maintenance", "Traffic Engineering"]", "[]", "http://www.iitg.ac.in/rajandce/", ""Transportation Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sandip Das", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sandip_Das.jpg", "sandip.das@iitg.ernet.in", "", "["Areas of Interest:", "Earthquake Engineering", "Structural Dynamics", "Random Vibration"]", "[]", "http://www.iitg.ac.in/sandip.das/", ""Structural Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Sreeja P.", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Sreeja_P.jpg", "sreeja@iitg.ernet.in", "", "["Areas of Interest:", "Urban Flood Modeling", "Modeling and Control of Open Channel Flows", "Infiltration and artificial recharge", "Stochastic Hydrology", "River Mechanics"]", "[]", "http://www.iitg.ac.in/sreeja/", ""Water Resources Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "Suresh Kartha", "", "CV", "http://www.iitg.ac.in/civil/fac_images/Suresh_Kartha.jpg", "kartha@iitg.ernet.in", "", "["Areas of Interest:", "Flow and transport through porous media", "Heap leaching", "Hydrology", "Numerical modeling"]", "[]", "http://www.iitg.ac.in/kartha/", ""Hydraulics &amp; Water Resources Engineering"")
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, "T. V. Bharat", "", "CV", "http://www.iitg.ac.in/civil/fac_images/T_V_Bharat.jpg", "tvb@iitg.ernet.in", "", "["Areas of Interest:", "Behavior of unsaturated soils during infiltration & drainage", "Settlement behavior of ultra-soft soils and mine tailings", "Contaminant transport through landfill liners", "Mineralogical aspects of clays", "Inverse analysis of geotechnical & geoenvironmental engineering problems"]", "[]", "http://www.iitg.ac.in/tvb/", ""Geotechnical Engineering"")
+                        
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anjan Dutta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Anjan_Dutta.jpg', 'adutta@iitg.ernet.in', '', '["Areas of Interest:", "Finite Element Mesh Generation", "Optimization", "Control, Health Monitoring and Retrofitting of structures"]', '[]', 'http://www.iitg.ac.in/adutta/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arup K. Sarma', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arup_K_Sarma.jpg', 'aks@iitg.ernet.in', '', '["Areas of Interest:", "Modeling &amp; simulation in Free Surface Flow", "Heuristic Method in Reservoir Optimization", "GIS based Watershed Modeling"]', '[]', 'http://www.iitg.ac.in/aks/', '"Water Resources and Hydraulic Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Chandan Mahanta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Chandan_Mahanta.jpg', 'chandan@iitg.ernet.in', '', '["Areas of Interest:", "Water Quality", "Sediment Dynamics in Fluvial Systems", "Environmental Impact, Risk Assessment and Management", "Environmental Geo-informatics", "Engineering Geology"]', '[]', 'http://www.iitg.ac.in/chandan/', '"Environmental Engg. &amp; Engineering Geology"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mohammad Jawed', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Mohammad_Jawed.jpg', 'jawed@iitg.ernet.in', '', '["Areas of Interest:", "Biological Processes", "Anaerobic Wastewater Treatment", "Heavy Metal Removal and Recovery", "Water Treatment and Supply", "Domestic &amp; Industrial Wastewater Treatment"]', '[]', 'http://www.iitg.ac.in/jawed/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sajal K. Deb', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sajal_K_Deb.jpg', 'skdeb@iitg.ernet.in', '', '["Areas of Interest:", "Passive and semi-active control", "Performance based seismic design", "System identification &amp; structural health monitoring", "Seismic damage assessment"]', '[]', 'http://www.iitg.ac.in/skdeb/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Subashisa Dutta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Subashisa_Dutta.jpg', 'subashisa@iitg.ernet.in', '', '["Areas of Interest:", "Meso-Scale Distributed hydrological modeling", "Satellite Remote Sensing and GIS for Water resources Management", "Computational river hydraulics and its applications", "Watershed and Irrigation Management"]', '[]', 'http://www.iitg.ac.in/subashisa/', '"Irrigation And Hydraulics Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sudip Talukdar', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sudip_Talukdar.jpg', 'staluk@iitg.ernet.in', '', '["Areas of Interest:", "Structural Dynamics", "Bridge Engineering", "Wind induced vibration &amp; control", "Non destructive techniques"]', '[]', 'http://www.iitg.ac.in/staluk/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', '', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arbind K. Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arbind_K_Singh.jpg', 'arvind@iitg.ernet.in', '', '["Areas of Interest:", "Information Technology in Construction Engineering", "Object-Oriented Programming", "Constitutive modeling"]', '[]', 'http://www.iitg.ac.in/arvind/', '"Computational Mechanics, IT in Construction Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Baleshwar Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Baleshwar_Singh.jpg', 'baleshwar@iitg.ernet.in', '', '["Areas of Interest:", "Marine Geotechnology", "Modelling of Onshore &amp; Offshore Foundations", "Soil Stabilization &amp; Ground Modification", "Pavement Subgrade &amp; Site Characterization"]', '[]', 'http://www.iitg.ac.in/baleshwar/', '"Geotechnical and Geoenvironmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gautam Barua', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Gautam_Barua.jpg', 'g_barua@iitg.ernet.in', '', '["Areas of Interest:", "Flow through porous media"]', '[]', 'http://www.iitg.ac.in/g_barua/', '"Flow through porous media"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Konjengbam Darunkumar Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/K_Darunkumar_Singh.jpg', 'darun@iitg.ernet.in', '', '["Areas of Interest:", "Structural Analysis and Design", "Finite Element Method", "Fracture and Fatigue Mechanics"]', '[]', 'http://www.iitg.ac.in/darun/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pranab K. Ghosh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Pranab_K_Ghosh.jpg', 'pkghosh@iitg.ernet.in', '', '["Areas of Interest:", "Water treatment for domestic and industrial use", "Domestic and Industrial wastewater treatment", "Sludge treatment by physicochemical and biological process"]', '[]', 'http://www.iitg.ac.in/pkghosh/', '"Waste water treatment"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Rajib Kumar Bhattacharjya', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Rajib_K_Bhattacharjya.jpg', 'rkbc@iitg.ernet.in', '', '["Areas of Interest:", "Water Resources System Management", "Genetic Algorithms", "Artificial Neural Networks"]', '[]', 'http://www.iitg.ac.in/rkbc/', '"Hydraulics &amp; Water Resources"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Saswati Chakraborty', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Saswati_Chakraborty.jpg', 'saswati@iitg.ernet.in', '', '["Areas of Interest:", "Water and Wastewater Treatment", "Biodegradation of Industrial Wastewater", "Removal of Heavy Metals from Wastewater"]', '[]', 'http://www.iitg.ac.in/saswati/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sharad Gokhale', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sharad_Gokhale.jpg', 'sharadbg@iitg.ernet.in', '', '["Areas of Interest:", "Air pollution and environmental noise", "Air quality modeling for traffic, industries, power plants", "Traffic flow and emission, atmospheric dispersion", "Indoor air quality, EIA, source apportionment, human exposure"]', '[]', 'http://www.iitg.ac.in/sharadbg/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sreedeep S.', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sreedeep_S.jpg', 'srees@iitg.ernet.in', '', '["Areas of Interest:", "Behavioral studies on unsaturated porous media", "Characterization of geo-materials (soils and rocks)", "Thermal characteristics of geo-materials", "Contaminant transport and retention studies", "Waste containment studies", "Landslides"]', '[]', 'http://www.iitg.ac.in/srees/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sujit K. Dash', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sujit_K_Dash.jpg', 'sujit@iitg.ernet.in', '', '["Areas of Interest:", "Reinforced Soil Structures", "Shallow and Deep Foundations", "Ground Improvement Techniques"]', '[]', 'http://www.iitg.ac.in/sujit/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Teiborlang L. Ryntathiang', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/T_R_Lyngdoh.jpg', 'lyngdoh@iitg.ernet.in', '', '["Areas of Interest:", "Pavement Materials", "Precast Concrete Block Pavement", "Cast In-Situ Concrete Block Pavement"]', '[]', 'http://www.iitg.ac.in/lyngdoh/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', '', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'A. Murali Krishna', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Adapa_Muralikrishna.jpg', 'amurali@iitg.ernet.in', '', '["Areas of Interest:", "Soil Investigation", "Reinforced Soil Structures", "Geosynthetics and Ground Improvement", "Earthquake Geotechnical Engineering"]', '[]', 'http://www.iitg.ac.in/amurali/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ajay Kalamdhad', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Ajay_Kalamdhad.jpg', 'kajay@iitg.ernet.in', '', '["Areas of Interest:", "Solid waste management", "Mechanical composting and vermicomposting", "Analysis of solid wastes"]', '[]', 'http://www.iitg.ac.in/kajay/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Akhilesh Kumar Maurya', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Akhilesh_Kumar_Maurya.jpg', 'maurya@iitg.ernet.in', '', '["Areas of Interest:", "Driver behaviour", "Traffic flow theory and modeling", "Traffic engineering"]', '[]', 'http://www.iitg.ac.in/maurya/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Shelke', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Amit_Shelke.jpg', 'amitsh@iitg.ernet.in', '', '["Areas of Interest:", "Ultrasonic wave propagation", "Acoustic-Impact detection", "Non-destructive testing"]', '[]', 'http://www.iitg.ac.in/amitsh/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anil Kumar Mishra', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Anil_Kumar_Mishra.JPG', 'anilmishra@iitg.ernet.in', '', '["Areas of Interest:", "Chemical compatibility studies of soil-bentonite mixtures", "Waste (municipal, industrial and hazardous) management and disposal", "Unsaturated soil mechanics"]', '[]', 'http://www.iitg.ac.in/anilmishra/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arindam Dey', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arindam_Dey.JPG', 'arindam.dey@iitg.ernet.in', '', '["Areas of Interest:", "Geosynthetic Reinforced Foundation Beds", "Geotechnical Lumped Parameter and Continuum Mechanics Modeling", "Parameter Estimation of Geotechnical Models", "Optimization, GA, ANN and Soft Computing in Geotechnical Engineering", "Ground Modification and Improvement Practices", "Soil-Structure-Foundation Interaction", "Reinforced Soil Structures", "Landslides and Slope Stability Analysis", "Seismic and Ambient Health Monitoring of Geotechnical Structures", "Reliability and Uncertainty Analysis in Geotechnical Engineering", "Forensic Investigation in Geotechnical Engineering", "Subsurface Profiling and Soil Investigation", "Soil Dynamics and Earthquake Engineering"]', '[]', 'http://www.iitg.ac.in/arindam.dey/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arunasis Chakraborty', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arunasis_Chakraborty.jpg', 'arunasis@iitg.ernet.in', '', '["Areas of Interest:", "Dynamic and Random Vibration", "System identification and damage detection", "Wavelet analysis"]', '[]', 'http://www.iitg.ac.in/arunasis/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bimlesh Kumar', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Bimlesh_Kumar.bmp', 'bimk@iitg.ernet.in', '', '["Areas of Interest:", "Small scale studies of mixing tanks", "Experimental Studies of Aeration Systems", "Sediment Transport analysis", "Pipeline analysis", "CFD simulation", "Surge analysis"]', '[]', 'http://www.iitg.ac.in/bimk/', '"Environmental Hydraulics and Sediment Transport"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bulu Pradhan', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Bulu_Pradhan.jpg', 'bulu@iitg.ernet.in', '', '["Areas of Interest:", "Durability studies in concrete", "Corrosion of steel reinforcement and protection measures", "High performance concrete", "Mass transport in cementitious materials", "Non-destructive testing of concrete structures", "Construction management"]', '[]', 'http://www.iitg.ac.in/bulu/', '"Civil Engineering Materials &amp; Construction Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'C. Mallikarjuna', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/C_Mallikarjuna.jpg', 'c.mallikarjuna@iitg.ernet.in', '', '["Areas of Interest:", "Traffic flow theory and Modeling", "Traffic data collection and analysis", "Travel demand modeling"]', '[]', 'http://www.iitg.ac.in/c.mallikarjuna/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hemant B. Kaushik', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Hemant_Kaushik.jpg', 'hemantbk@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Resistant Design", "Nonlinear Behaviour of Structures", "Retrofitting of Structures", "Finite Element Modeling"]', '[]', 'http://www.iitg.ac.in/hemantbk/', '"Structural Engineering, Earthquake Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hrishikesh Sharma', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Hrishikesh_Sharma.jpg', 'shrishi@iitg.ernet.in', '', '["Areas of Interest:", "Impact and Blast Resistant Design", "Reliability Analysis and Performance Based Engineering", "Design and Optimization of Protection Measures"]', '[]', 'http://www.iitg.ac.in/shrishi/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Kaustubh Dasgupta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Kaustubh_Dasgupta.jpg', 'kd@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Engineering", "Design of Reinforced Concrete Structures", "Retrofitting of Structures"]', '[]', 'http://www.iitg.ac.in/kd/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Laishram Boeing Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/L_Boeing_Singh.JPG', 'boeing@iitg.ernet.in', '', '["Areas of Interest:", "Public Private Partnerships", "Risk Management", "Construction Management"]', '[]', 'http://www.iitg.ac.in/boeing/', '"Infrastructure Financing and Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Manish Kumar Goyal', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Manish_Kumar_Goyal.jpg', 'mkgoyal@iitg.ernet.in', '', '["Areas of Interest:", "Stochastic Hydrology and Distributed Hydrological Modeling", "Hydro-climatology and Statistical Downscaling", "Irrigation Management and Crop Modeling Applications", "Multivariate Statistical Analysis, Machine Learning Models and Data Mining"]', '[]', 'http://www.iitg.ac.in/mkgoyal/', '"Water Resource Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Rajan Choudhary', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Rajan_Choudhary.jpg', 'rajandce@iitg.ernet.in', '', '["Areas of Interest:", "Pavement Analysis and Design", "Highway Construction and Quality Control", "Pavement Material Characterization", "Pavement Evaluation and Maintenance", "Traffic Engineering"]', '[]', 'http://www.iitg.ac.in/rajandce/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sandip Das', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sandip_Das.jpg', 'sandip.das@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Engineering", "Structural Dynamics", "Random Vibration"]', '[]', 'http://www.iitg.ac.in/sandip.das/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sreeja P.', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sreeja_P.jpg', 'sreeja@iitg.ernet.in', '', '["Areas of Interest:", "Urban Flood Modeling", "Modeling and Control of Open Channel Flows", "Infiltration and artificial recharge", "Stochastic Hydrology", "River Mechanics"]', '[]', 'http://www.iitg.ac.in/sreeja/', '"Water Resources Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Suresh Kartha', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Suresh_Kartha.jpg', 'kartha@iitg.ernet.in', '', '["Areas of Interest:", "Flow and transport through porous media", "Heap leaching", "Hydrology", "Numerical modeling"]', '[]', 'http://www.iitg.ac.in/kartha/', '"Hydraulics &amp; Water Resources Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'T. V. Bharat', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/T_V_Bharat.jpg', 'tvb@iitg.ernet.in', '', '["Areas of Interest:", "Behavior of unsaturated soils during infiltration & drainage", "Settlement behavior of ultra-soft soils and mine tailings", "Contaminant transport through landfill liners", "Mineralogical aspects of clays", "Inverse analysis of geotechnical & geoenvironmental engineering problems"]', '[]', 'http://www.iitg.ac.in/tvb/', '"Geotechnical Engineering"')
+                        
+DEBUG:root:Reading Guwahati civil faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anjan Dutta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Anjan_Dutta.jpg', 'adutta@iitg.ernet.in', '', '["Areas of Interest:", "Finite Element Mesh Generation", "Optimization", "Control, Health Monitoring and Retrofitting of structures"]', '[]', 'http://www.iitg.ac.in/adutta/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arup K. Sarma', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arup_K_Sarma.jpg', 'aks@iitg.ernet.in', '', '["Areas of Interest:", "Modeling &amp; simulation in Free Surface Flow", "Heuristic Method in Reservoir Optimization", "GIS based Watershed Modeling"]', '[]', 'http://www.iitg.ac.in/aks/', '"Water Resources and Hydraulic Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Chandan Mahanta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Chandan_Mahanta.jpg', 'chandan@iitg.ernet.in', '', '["Areas of Interest:", "Water Quality", "Sediment Dynamics in Fluvial Systems", "Environmental Impact, Risk Assessment and Management", "Environmental Geo-informatics", "Engineering Geology"]', '[]', 'http://www.iitg.ac.in/chandan/', '"Environmental Engg. &amp; Engineering Geology"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Mohammad Jawed', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Mohammad_Jawed.jpg', 'jawed@iitg.ernet.in', '', '["Areas of Interest:", "Biological Processes", "Anaerobic Wastewater Treatment", "Heavy Metal Removal and Recovery", "Water Treatment and Supply", "Domestic &amp; Industrial Wastewater Treatment"]', '[]', 'http://www.iitg.ac.in/jawed/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sajal K. Deb', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sajal_K_Deb.jpg', 'skdeb@iitg.ernet.in', '', '["Areas of Interest:", "Passive and semi-active control", "Performance based seismic design", "System identification &amp; structural health monitoring", "Seismic damage assessment"]', '[]', 'http://www.iitg.ac.in/skdeb/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Subashisa Dutta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Subashisa_Dutta.jpg', 'subashisa@iitg.ernet.in', '', '["Areas of Interest:", "Meso-Scale Distributed hydrological modeling", "Satellite Remote Sensing and GIS for Water resources Management", "Computational river hydraulics and its applications", "Watershed and Irrigation Management"]', '[]', 'http://www.iitg.ac.in/subashisa/', '"Irrigation And Hydraulics Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sudip Talukdar', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sudip_Talukdar.jpg', 'staluk@iitg.ernet.in', '', '["Areas of Interest:", "Structural Dynamics", "Bridge Engineering", "Wind induced vibration &amp; control", "Non destructive techniques"]', '[]', 'http://www.iitg.ac.in/staluk/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', '', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arbind K. Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arbind_K_Singh.jpg', 'arvind@iitg.ernet.in', '', '["Areas of Interest:", "Information Technology in Construction Engineering", "Object-Oriented Programming", "Constitutive modeling"]', '[]', 'http://www.iitg.ac.in/arvind/', '"Computational Mechanics, IT in Construction Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Baleshwar Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Baleshwar_Singh.jpg', 'baleshwar@iitg.ernet.in', '', '["Areas of Interest:", "Marine Geotechnology", "Modelling of Onshore &amp; Offshore Foundations", "Soil Stabilization &amp; Ground Modification", "Pavement Subgrade &amp; Site Characterization"]', '[]', 'http://www.iitg.ac.in/baleshwar/', '"Geotechnical and Geoenvironmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gautam Barua', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Gautam_Barua.jpg', 'g_barua@iitg.ernet.in', '', '["Areas of Interest:", "Flow through porous media"]', '[]', 'http://www.iitg.ac.in/g_barua/', '"Flow through porous media"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Konjengbam Darunkumar Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/K_Darunkumar_Singh.jpg', 'darun@iitg.ernet.in', '', '["Areas of Interest:", "Structural Analysis and Design", "Finite Element Method", "Fracture and Fatigue Mechanics"]', '[]', 'http://www.iitg.ac.in/darun/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pranab K. Ghosh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Pranab_K_Ghosh.jpg', 'pkghosh@iitg.ernet.in', '', '["Areas of Interest:", "Water treatment for domestic and industrial use", "Domestic and Industrial wastewater treatment", "Sludge treatment by physicochemical and biological process"]', '[]', 'http://www.iitg.ac.in/pkghosh/', '"Waste water treatment"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Rajib Kumar Bhattacharjya', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Rajib_K_Bhattacharjya.jpg', 'rkbc@iitg.ernet.in', '', '["Areas of Interest:", "Water Resources System Management", "Genetic Algorithms", "Artificial Neural Networks"]', '[]', 'http://www.iitg.ac.in/rkbc/', '"Hydraulics &amp; Water Resources"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Saswati Chakraborty', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Saswati_Chakraborty.jpg', 'saswati@iitg.ernet.in', '', '["Areas of Interest:", "Water and Wastewater Treatment", "Biodegradation of Industrial Wastewater", "Removal of Heavy Metals from Wastewater"]', '[]', 'http://www.iitg.ac.in/saswati/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sharad Gokhale', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sharad_Gokhale.jpg', 'sharadbg@iitg.ernet.in', '', '["Areas of Interest:", "Air pollution and environmental noise", "Air quality modeling for traffic, industries, power plants", "Traffic flow and emission, atmospheric dispersion", "Indoor air quality, EIA, source apportionment, human exposure"]', '[]', 'http://www.iitg.ac.in/sharadbg/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sreedeep S.', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sreedeep_S.jpg', 'srees@iitg.ernet.in', '', '["Areas of Interest:", "Behavioral studies on unsaturated porous media", "Characterization of geo-materials (soils and rocks)", "Thermal characteristics of geo-materials", "Contaminant transport and retention studies", "Waste containment studies", "Landslides"]', '[]', 'http://www.iitg.ac.in/srees/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sujit K. Dash', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sujit_K_Dash.jpg', 'sujit@iitg.ernet.in', '', '["Areas of Interest:", "Reinforced Soil Structures", "Shallow and Deep Foundations", "Ground Improvement Techniques"]', '[]', 'http://www.iitg.ac.in/sujit/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Teiborlang L. Ryntathiang', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/T_R_Lyngdoh.jpg', 'lyngdoh@iitg.ernet.in', '', '["Areas of Interest:", "Pavement Materials", "Precast Concrete Block Pavement", "Cast In-Situ Concrete Block Pavement"]', '[]', 'http://www.iitg.ac.in/lyngdoh/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, '', '', '', '', '', '', '[]', '[]', '', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'A. Murali Krishna', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Adapa_Muralikrishna.jpg', 'amurali@iitg.ernet.in', '', '["Areas of Interest:", "Soil Investigation", "Reinforced Soil Structures", "Geosynthetics and Ground Improvement", "Earthquake Geotechnical Engineering"]', '[]', 'http://www.iitg.ac.in/amurali/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ajay Kalamdhad', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Ajay_Kalamdhad.jpg', 'kajay@iitg.ernet.in', '', '["Areas of Interest:", "Solid waste management", "Mechanical composting and vermicomposting", "Analysis of solid wastes"]', '[]', 'http://www.iitg.ac.in/kajay/', '"Environmental Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Akhilesh Kumar Maurya', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Akhilesh_Kumar_Maurya.jpg', 'maurya@iitg.ernet.in', '', '["Areas of Interest:", "Driver behaviour", "Traffic flow theory and modeling", "Traffic engineering"]', '[]', 'http://www.iitg.ac.in/maurya/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Amit Shelke', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Amit_Shelke.jpg', 'amitsh@iitg.ernet.in', '', '["Areas of Interest:", "Ultrasonic wave propagation", "Acoustic-Impact detection", "Non-destructive testing"]', '[]', 'http://www.iitg.ac.in/amitsh/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anil Kumar Mishra', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Anil_Kumar_Mishra.JPG', 'anilmishra@iitg.ernet.in', '', '["Areas of Interest:", "Chemical compatibility studies of soil-bentonite mixtures", "Waste (municipal, industrial and hazardous) management and disposal", "Unsaturated soil mechanics"]', '[]', 'http://www.iitg.ac.in/anilmishra/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arindam Dey', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arindam_Dey.JPG', 'arindam.dey@iitg.ernet.in', '', '["Areas of Interest:", "Geosynthetic Reinforced Foundation Beds", "Geotechnical Lumped Parameter and Continuum Mechanics Modeling", "Parameter Estimation of Geotechnical Models", "Optimization, GA, ANN and Soft Computing in Geotechnical Engineering", "Ground Modification and Improvement Practices", "Soil-Structure-Foundation Interaction", "Reinforced Soil Structures", "Landslides and Slope Stability Analysis", "Seismic and Ambient Health Monitoring of Geotechnical Structures", "Reliability and Uncertainty Analysis in Geotechnical Engineering", "Forensic Investigation in Geotechnical Engineering", "Subsurface Profiling and Soil Investigation", "Soil Dynamics and Earthquake Engineering"]', '[]', 'http://www.iitg.ac.in/arindam.dey/', '"Geotechnical Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arunasis Chakraborty', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Arunasis_Chakraborty.jpg', 'arunasis@iitg.ernet.in', '', '["Areas of Interest:", "Dynamic and Random Vibration", "System identification and damage detection", "Wavelet analysis"]', '[]', 'http://www.iitg.ac.in/arunasis/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bimlesh Kumar', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Bimlesh_Kumar.bmp', 'bimk@iitg.ernet.in', '', '["Areas of Interest:", "Small scale studies of mixing tanks", "Experimental Studies of Aeration Systems", "Sediment Transport analysis", "Pipeline analysis", "CFD simulation", "Surge analysis"]', '[]', 'http://www.iitg.ac.in/bimk/', '"Environmental Hydraulics and Sediment Transport"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bulu Pradhan', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Bulu_Pradhan.jpg', 'bulu@iitg.ernet.in', '', '["Areas of Interest:", "Durability studies in concrete", "Corrosion of steel reinforcement and protection measures", "High performance concrete", "Mass transport in cementitious materials", "Non-destructive testing of concrete structures", "Construction management"]', '[]', 'http://www.iitg.ac.in/bulu/', '"Civil Engineering Materials &amp; Construction Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'C. Mallikarjuna', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/C_Mallikarjuna.jpg', 'c.mallikarjuna@iitg.ernet.in', '', '["Areas of Interest:", "Traffic flow theory and Modeling", "Traffic data collection and analysis", "Travel demand modeling"]', '[]', 'http://www.iitg.ac.in/c.mallikarjuna/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hemant B. Kaushik', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Hemant_Kaushik.jpg', 'hemantbk@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Resistant Design", "Nonlinear Behaviour of Structures", "Retrofitting of Structures", "Finite Element Modeling"]', '[]', 'http://www.iitg.ac.in/hemantbk/', '"Structural Engineering, Earthquake Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Hrishikesh Sharma', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Hrishikesh_Sharma.jpg', 'shrishi@iitg.ernet.in', '', '["Areas of Interest:", "Impact and Blast Resistant Design", "Reliability Analysis and Performance Based Engineering", "Design and Optimization of Protection Measures"]', '[]', 'http://www.iitg.ac.in/shrishi/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Kaustubh Dasgupta', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Kaustubh_Dasgupta.jpg', 'kd@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Engineering", "Design of Reinforced Concrete Structures", "Retrofitting of Structures"]', '[]', 'http://www.iitg.ac.in/kd/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Laishram Boeing Singh', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/L_Boeing_Singh.JPG', 'boeing@iitg.ernet.in', '', '["Areas of Interest:", "Public Private Partnerships", "Risk Management", "Construction Management"]', '[]', 'http://www.iitg.ac.in/boeing/', '"Infrastructure Financing and Management"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Manish Kumar Goyal', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Manish_Kumar_Goyal.jpg', 'mkgoyal@iitg.ernet.in', '', '["Areas of Interest:", "Stochastic Hydrology and Distributed Hydrological Modeling", "Hydro-climatology and Statistical Downscaling", "Irrigation Management and Crop Modeling Applications", "Multivariate Statistical Analysis, Machine Learning Models and Data Mining"]', '[]', 'http://www.iitg.ac.in/mkgoyal/', '"Water Resource Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Rajan Choudhary', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Rajan_Choudhary.jpg', 'rajandce@iitg.ernet.in', '', '["Areas of Interest:", "Pavement Analysis and Design", "Highway Construction and Quality Control", "Pavement Material Characterization", "Pavement Evaluation and Maintenance", "Traffic Engineering"]', '[]', 'http://www.iitg.ac.in/rajandce/', '"Transportation Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sandip Das', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sandip_Das.jpg', 'sandip.das@iitg.ernet.in', '', '["Areas of Interest:", "Earthquake Engineering", "Structural Dynamics", "Random Vibration"]', '[]', 'http://www.iitg.ac.in/sandip.das/', '"Structural Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sreeja P.', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Sreeja_P.jpg', 'sreeja@iitg.ernet.in', '', '["Areas of Interest:", "Urban Flood Modeling", "Modeling and Control of Open Channel Flows", "Infiltration and artificial recharge", "Stochastic Hydrology", "River Mechanics"]', '[]', 'http://www.iitg.ac.in/sreeja/', '"Water Resources Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Suresh Kartha', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/Suresh_Kartha.jpg', 'kartha@iitg.ernet.in', '', '["Areas of Interest:", "Flow and transport through porous media", "Heap leaching", "Hydrology", "Numerical modeling"]', '[]', 'http://www.iitg.ac.in/kartha/', '"Hydraulics &amp; Water Resources Engineering"')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'T. V. Bharat', '', 'CV', 'http://www.iitg.ac.in/civil/fac_images/T_V_Bharat.jpg', 'tvb@iitg.ernet.in', '', '["Areas of Interest:", "Behavior of unsaturated soils during infiltration & drainage", "Settlement behavior of ultra-soft soils and mine tailings", "Contaminant transport through landfill liners", "Mineralogical aspects of clays", "Inverse analysis of geotechnical & geoenvironmental engineering problems"]', '[]', 'http://www.iitg.ac.in/tvb/', '"Geotechnical Engineering"')
+                        

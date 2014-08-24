@@ -1,0 +1,126 @@
+DEBUG:root:Reading Guwahati biotech faculty list page
+DEBUG:root:Extract individual faculty details
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'V. Venkata Dasu', 'Department Head;&nbsp;Professor', 'BT', '', 'veeranki@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/V.V.Dasu.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'A. B. Kunnumakkara', 'Assistant Professor', 'BT', '', 'kunnumakkara@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://shilloi.iitg.ernet.in/~kunnumakkara', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Aiyagari Ramesh', 'Associate Professor', 'BT', '', 'aramesh@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/A.Ramesh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Anil Mukund Limaye', 'Assistant Professor', 'BT', '', 'amul@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/A.M.Limaye.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Arun Goyal', 'Professor', 'BT', '', 'arungoyl@iitg.ernet.in', ' Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/A.Goyal.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'B. Anand', 'Assistant Professor', 'BT', '', 'banand@iitg.ernet.in', ' Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/banand/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Biman B. Mandal', 'Assistant Professor', 'BT', '', 'biman.mandal@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/B.Mandal.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Biplab Bose', 'Associate Professor', 'BT', '', 'biplabbose@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/B.Bose.htm', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Bithiah G Jaganathan', 'Assistant Professor', 'BT', '', 'bithiahgj@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/bithiahgj/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Debasish Das', 'Associate Professor', 'BT', '', 'debasishd@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/debasishd/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Gurvinder Kaur Saini', 'Associate Professor', 'BT', '', 'gurvinder@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/G.K.Saini.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'K. Pakshirajan', 'Associate Professor', 'BT', '', 'pakshi@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/K.Pakshirajan.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Latha Rangan', '&nbsp;Professor', 'BT', '', 'lrangan@iitg.ernet.in', ' 
+Ph.D', '[]', '[]', 'http://www.iitg.ac.in/biotech/L.Rangan.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Lalit Mohan Pandey', 'Assistant Professor', 'BT', '', 'lalitpandey@iitg.ernet.in', ' Ph.D', '[]', '[]', 'http://www.iitg.ac.in/biotech/L%20M%20Pandey.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Lingaraj Sahoo', 'Professor', 'BT', '', 'ls@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/L.Sahoo.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Manish Kumar', 'Assistant Professor', 'BT', '', 'mkumar1@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/M.Kumar.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Nitin Chaudhary', 'Assistant Professor', 'BT', '', 'chaudhary@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/N.Chaudhary.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Piruthivi Sukumar', 'Assistant Professor', 'BT', '', 'p.sukumar@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/P.Sukumar.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Pranab Goswami', 'Professor', 'BT', '', 'pgoswami@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/pgoswami/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'R. Swaminathan', 'Professor', 'BT', '', 'rsw@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/R.Swaminathan.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Rakhi Chaturvedi', 'Professor', 'BT', '', 'rakhi_chaturvedi@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/R.Chaturvedi.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Ranjan Tamuli', 'Associate Professor', 'BT', '', 'ranjantamuli@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/R.Tamuli.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sachin Kumar', 'Assistant Professor', 'BT', '', 'sachinku@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/sachinku/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Sanjukta Patra', 'Associate Professor', 'BT', '', 'sanjukta@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/sanjukta/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Soumen Kr. Maiti', 'Assistant Professor', 'BT', '', 'soumenkm@iitg.ernet.in', ' Ph.D', '[]', '[]', 'http://www.iitg.ac.in/biotech/S%20K%20Maiti.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'S.Senthilkumar', 'Assistant Professor', 'BT', '', 'senthilkumar@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/Senthilkumar.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'S. P. Kanaujia', 'Assistant Professor', 'BT', '', 'spkanaujia@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/spkanaujia/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Siddhartha S. Ghosh', 'Professor', 'BT', '', 'sghosh@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/S.S.Ghosh.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Utpal Bora', 'Associate Professor', 'BT', '', 'ubora@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ac.in/biotech/U.Bora.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vibin Ramakrishnan', 'Assistant Professor', 'BT', '', 'vibin@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/vibin/Site/WELCOME.html', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vikash Kumar Dubey', 'Professor', 'BT', '', 'vdubey@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/vdubey/', '[]')
+                        
+INFO:root:INSERT IGNORE INTO faculty(institute_id, faculty_name, designation, dept_code, photo_href, faculty_email, qualifications, research_field, publications, faculty_page, specialization) 
+                            VALUES(3, 'Vishal Trivedi', 'Associate Professor', 'BT', '', 'vtrivedi@iitg.ernet.in', ' 
+Ph.D.', '[]', '[]', 'http://www.iitg.ernet.in/vtrivedi/', '[]')
+                        
