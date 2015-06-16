@@ -18,9 +18,9 @@ A Knowledge Based Search engine specifically for searching faculty information.
 * Create a database in mysql named knowledge_engine
 * Change the database credentials in data-config.xml
 * Run and index the solr.
-* Access knowledge Engine portal at http://localhost/{path/from/publuc/directory/to/knowledge/engine/folder}
+* Access knowledge Engine portal at http://localhost/{path/from/public/directory/to/knowledge/engine/folder}
 
-##Extractio Unit
+##Extraction Unit
 * It is a eclipse project. Import this folder as eclipse project.
 * Run it as python script.
 
